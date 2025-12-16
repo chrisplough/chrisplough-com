@@ -6,7 +6,7 @@ showSocial: true
 
 If you're here, there's probably a reason. I'd love to know what it is.
 
-<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="contact-form">
+<form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thank-you/" class="contact-form">
   <input type="hidden" name="form-name" value="contact">
   <p class="hidden" style="display:none;">
     <label>Don't fill this out: <input name="bot-field"></label>

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Thank You | Christoph Plough</title>
+  <meta name="description" content="Message received.">
+  
+  
+  <meta property="og:site_name" content="Christoph Plough | Human-AI Interdependence &amp; Other Adventures...">
+  <meta property="og:title" content="Thank You">
+  <meta property="og:type" content="website">
+  <meta property="og:description" content="Message received.">
+  <meta property="og:image" content="//localhost:1313/images/og-card.jpg">
+  <meta property="og:url" content="//localhost:1313/thank-you/">
+  <meta property="twitter:card" content="summary_large_image">
+  
+  
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png">
+  
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,900;1,300;1,400;1,600;1,900&display=swap" rel="stylesheet">
+  
+  
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+  
+  <div class="background"></div>
+  
+  
+  <div class="site-wrapper">
+    
+<main class="site-main page">
+  <div class="inner">
+    <a href="/" class="back-link">← Back</a>
+    
+    
+    
+    <h1>Thank You</h1>
+    
+    <div class="content">
+      <p>I&rsquo;ll be in touch soon. I&rsquo;m curious what we&rsquo;ll discover together :)</p>
+<p><a href="/">← Back Home</a>
+</p>
+
+    </div>
+    
+    
+  </div>
+</main>
+
+  </div>
+  
+  
+  <script>
+  
+  function showPage() {
+    document.body.classList.remove('transitioning');
+    document.body.classList.add('loaded');
+  }
+  
+  document.addEventListener('DOMContentLoaded', showPage);
+  
+  
+  window.addEventListener('pageshow', function(event) {
+    if (event.persisted) {
+      showPage();
+    }
+  });
+  
+  
+  document.querySelectorAll('a[href^="/"]').forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      const href = this.getAttribute('href');
+      if (href && !href.startsWith('#')) {
+        e.preventDefault();
+        document.body.classList.remove('loaded');
+        document.body.classList.add('transitioning');
+        setTimeout(function() {
+          window.location.href = href;
+        }, 250);
+      }
+    });
+  });
+  </script>
+</body>
+</html>

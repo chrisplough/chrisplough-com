@@ -15,5 +15,7 @@
     <loc>//localhost:1313/now/</loc>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/thank-you/</loc>
   </url>
 </urlset>
