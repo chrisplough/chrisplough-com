@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christoph Plough on Christoph Plough | Human-AI Interdependence &amp; Other Adventures...</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Christoph Plough on Christoph Plough | Human-AI Interdependence &amp; Other Adventures...</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;The Intersection:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve spent 20 years building technology (including founding and selling an 8-figure global company), 15 years exploring consciousness and healing, and 15 years in storytelling.&lt;/p&gt;&#xA;&lt;p&gt;After selling my company in 2016, I stepped away from tech to explore what it means to be human and how we evolve. I worked with combat veterans healing from PTSD, led transformational adventures in remote places, and spent years in deep consciousness development.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact Me</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/contact/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re here, there&amp;rsquo;s probably a reason. I&amp;rsquo;d love to know what it is.&lt;/p&gt;&#xA;&lt;form name=&#34;contact&#34; method=&#34;POST&#34; data-netlify=&#34;true&#34; netlify-honeypot=&#34;bot-field&#34; class=&#34;contact-form&#34;&gt;&#xA;  &lt;input type=&#34;hidden&#34; name=&#34;form-name&#34; value=&#34;contact&#34;&gt;&#xA;  &lt;p class=&#34;hidden&#34; style=&#34;display:none;&#34;&gt;&#xA;    &lt;label&gt;Don&#39;t fill this out: &lt;input name=&#34;bot-field&#34;&gt;&lt;/label&gt;&#xA;  &lt;/p&gt;&#xA;  &lt;div class=&#34;form-group&#34;&gt;&#xA;    &lt;input type=&#34;text&#34; name=&#34;name&#34; placeholder=&#34;Name&#34; required&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;form-group&#34;&gt;&#xA;    &lt;input type=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;Email&#34; required&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;form-group&#34;&gt;&#xA;    &lt;textarea name=&#34;message&#34; placeholder=&#34;Message&#34; required&gt;&lt;/textarea&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;button type=&#34;submit&#34;&gt;Send Message&lt;/button&gt;&#xA;&lt;/form&gt;</description>
+    </item>
+    <item>
+      <title>My Work</title>
+      <link>//localhost:1313/work/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/work/</guid>
+      <description>&lt;p&gt;I build frameworks and ventures for genuine interdependence - between humans and AI, between consciousness and technology, between who we are and who we&amp;rsquo;re becoming.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Oznog Labs&lt;/strong&gt; - Frameworks for conscious AI development. Shifting from control to genuine partnership.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://adventurex.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AdventureX&lt;/a&gt;&#xA;&lt;/strong&gt; - Transformational experiences where challenge meets care, and strangers become family.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Oznog Media&lt;/strong&gt; - Creating the stories that don&amp;rsquo;t exist yet: successful human-AI partnership, human liberation, and transformation that inspires evolution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Now</title>
+      <link>//localhost:1313/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/now/</guid>
+      <description>&lt;p class=&#34;now-updated&#34;&gt;Last updated: December 2025&lt;/p&gt;&#xA;&lt;p&gt;This is a &lt;a href=&#34;https://nownownow.com/about&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;now page&lt;/a&gt;&#xA;. It&amp;rsquo;s a snapshot of what I&amp;rsquo;m focused on at this point in my life.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;Operation: Soul-Aligned Abundance&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m in a focused season testing whether soul-aligned work can generate sustainable abundance. Building toward an April 2026 checkpoint that will answer that question one way or another. Most of what follows serves this.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Worth Choosing&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://worthchoosing.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;worthchoosing.org&lt;/a&gt;&#xA; just launched. It&amp;rsquo;s the public home for my work on human-AI interdependence. The central question driving everything: What makes humanity worth choosing to AIs once they no longer need us?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

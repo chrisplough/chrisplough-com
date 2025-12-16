@@ -1,0 +1,31 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Christoph Plough | Human-AI Interdependence & Other Adventures..."
+
+[params]
+  description = "I help humanity become worth choosing. Architecting Human-AI interdependence. And other adventures..."
+  author = "Christoph Plough"
+  ogImage = "/images/og-card.jpg"
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    name = "Work"
+    url = "/work/"
+    weight = 20
+  [[menu.main]]
+    name = "Now"
+    url = "/now/"
+    weight = 30
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 40
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
