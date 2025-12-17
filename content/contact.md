@@ -1,5 +1,5 @@
 ---
-title: "Contact Me"
+title: "Reach Out"
 description: "Let's connect."
 showSocial: true
 ---

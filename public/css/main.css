@@ -53,6 +53,7 @@ body.transitioning {
 .site-wrapper {
   min-height: 100vh;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   padding: 2rem;
@@ -86,7 +87,7 @@ body.transitioning {
 
 .site-main h1 {
   font-size: 2.5rem;
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: 0.05em;
   margin-bottom: 1rem;
 }
@@ -348,4 +349,27 @@ body.transitioning {
   .content {
     text-align: left;
   }
+}
+
+/* Footer */
+/* Footer */
+.site-footer {
+  width: 100%;
+  text-align: center;
+  padding: 2rem 0;
+  margin-top: 2rem;
+  position: relative;
+  z-index: 10;
+}
+
+.site-footer a {
+  color: rgba(255, 255, 255, 0.5);
+  text-decoration: none;
+  font-size: 0.9rem;
+  letter-spacing: 0.05em;
+  transition: color 0.2s ease;
+}
+
+.site-footer a:hover {
+  color: rgba(255, 255, 255, 0.8);
 }
