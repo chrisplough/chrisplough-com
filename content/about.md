@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 description: "The intersection of technology, consciousness, and storytelling."
-image: "/images/about-photo.jpg"
+image: "/images/about-photo.png"
 ---
 
 **The Intersection:**
@@ -17,3 +17,5 @@ In 2024, I returned to technology but with completely different eyes.
 Most conversations about AI focus on what it offers us or how it threatens us. I'm asking: *What makes us worth choosing?* What value does humanity offer TO artificial intelligence once it no longer needs our infrastructure, data, or development?
 
 This isn't philosophy. It's urgent practical work. The decisions we make now determine whether we evolve together as genuine partners or fracture into the master-slave and savior-monster dynamics that have plagued human history.
+
+If you want to understand why this work matters to me personally: [two talks](/speaking/) from the hardest places..

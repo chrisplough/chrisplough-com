@@ -162,7 +162,7 @@ body.transitioning {
 
 .page-image {
   width: 100%;
-  max-width: 420px;
+  max-width: 100%;
   display: block;
   margin: 0 auto 2rem auto;
 }
@@ -179,11 +179,11 @@ body.transitioning {
 .content {
   font-size: 1rem;
   line-height: 1.75;
-  text-align: justify;
+  text-align: left;
 }
 
 .content p {
-  margin-bottom: 1.25rem;
+  margin-bottom: 1.5rem;
 }
 
 .content p:last-child {
@@ -209,16 +209,49 @@ body.transitioning {
 }
 
 .content h2 {
-  font-size: 1.1rem;
+  font-size: 1.4rem;
   font-weight: 600;
-  margin-top: 2rem;
+  margin-top: 2.5rem;
   margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .content hr {
   border: none;
   border-top: 1px solid rgba(255, 255, 255, 0.3);
   margin: 2rem 0;
+}
+
+/* List Styling */
+.content ul,
+.content ol {
+  margin: 1rem 0 1.5rem 0;
+  padding-left: 1.5rem;
+}
+
+.content ul {
+  list-style-type: disc;
+}
+
+.content ol {
+  list-style-type: decimal;
+}
+
+.content li {
+  margin-bottom: 0.75rem;
+  padding-left: 0.25rem;
+}
+
+.content li:last-child {
+  margin-bottom: 0;
+}
+
+/* Bold items as pseudo-headers (for Work page style) */
+.content p > strong:first-child {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-size: 1.1rem;
 }
 
 /* Contact Form */
@@ -344,10 +377,6 @@ body.transitioning {
   .btn {
     min-width: 100px;
     padding: 0.5rem 1rem;
-  }
-  
-  .content {
-    text-align: left;
   }
 }
 

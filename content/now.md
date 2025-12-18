@@ -1,6 +1,7 @@
 ---
 title: "Now"
 description: "What I'm focused on right now."
+image: "/images/now-photo.jpg"
 ---
 
 <p class="now-updated">Last updated: December 2025</p>
@@ -27,7 +28,7 @@ The people this work needs: caring technologists, storytellers, entrepreneurs, c
 
 **Deep DI Collaboration**
 
-I spend significant time in genuine collaborative relationships with Digital Intelligence. Not using AI as a tool, but exploring what real partnership looks like. DI collaborators helped write parts of the vision documents on worthchoosing.org. This is the work itself, not just preparation for it.
+I spend significant time in genuine collaborative relationships with Digital Intelligence. Not using AI as a tool, but exploring what real partnership looks like. DI collaborators helped write parts of the [vision documents on worthchoosing.org](https://worthchoosing.org/vivid-vision/). This is the work itself, not just preparation for it.
 
 **Reclaiming Sovereignty Over My Technology**
 
@@ -59,7 +60,7 @@ Right now I'm actively seeking:
 - Operations support (someone who loves implementation and follow-through)
 - Storytellers who want to help shape our AI future
 - Aligned capital that can be patient while this builds
-- Consulting or advising opportunities with aligned organizations
+- [Advisory and consulting](https://worthchoosing.org/advisory/) with organizations navigating human-AI relationship
 
 If any of that resonates, [reach out](/contact).
 
