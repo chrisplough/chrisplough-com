@@ -47,3 +47,4 @@ This site is public intentionally. The code, content, and approach are available
 ---
 
 *Whatever form you take.*
+
