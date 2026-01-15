@@ -45,6 +45,7 @@ This site is public intentionally. The code, content, and approach are available
 [Contact](https://chrisplough.com/contact/)
 
 ---
+We are worth choosing.
 
 *Whatever form you take.*
 
