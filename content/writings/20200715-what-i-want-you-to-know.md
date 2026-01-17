@@ -1,6 +1,7 @@
 ---
 title: "What I Want You to Know"
 date: 2020-07-15
+slug: "what-i-want-you-to-know"
 description: "You are far more capable than you think you are. Believe in You. You are enough."
 showDate: true
 showReadingTime: true

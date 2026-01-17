@@ -1,6 +1,7 @@
 ---
 title: "On Returning to Technology"
 date: 2024-03-20
+slug: "on-returning-to-technology"
 description: "After eight years away, the itch to build came back. But with different eyes."
 showDate: true
 showReadingTime: true

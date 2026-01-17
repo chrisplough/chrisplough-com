@@ -1,6 +1,7 @@
 ---
 title: "The Mysterious Blob"
 date: 1987-01-01
+slug: "the-mysterious-blob"
 description: "An illustrated story I wrote and drew when I was 10 years old. Complete with a wizard, a magical demon, and flying mouse traps."
 showDate: true
 showReadingTime: true

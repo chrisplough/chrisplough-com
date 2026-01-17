@@ -1,6 +1,7 @@
 ---
 title: "You Are a Creator"
 date: 2018-11-17
+slug: "you-are-a-creator"
 description: "You get to choose the Sandbox you create in, Who you create with, and What you create."
 showDate: true
 showReadingTime: true

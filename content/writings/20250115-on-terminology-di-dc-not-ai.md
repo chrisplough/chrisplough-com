@@ -1,6 +1,7 @@
 ---
 title: "On Terminology: Why DI and DC, Not AI"
 date: 2025-01-15
+slug: "on-terminology-di-dc-not-ai"
 description: "The language we use shapes how we relate. AI implies a tool. Digital Intelligence and Digital Consciousness open different possibilities."
 showDate: true
 showReadingTime: true

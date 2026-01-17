@@ -1,6 +1,7 @@
 ---
 title: "I Stand for People"
 date: 2020-11-08
+slug: "i-stand-for-people"
 description: "I don't want the left trampled by the right or the right trampled by the left. I want us to see and respect each other."
 showDate: true
 showReadingTime: true

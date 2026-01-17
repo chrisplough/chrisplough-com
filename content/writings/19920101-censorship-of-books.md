@@ -1,6 +1,7 @@
 ---
 title: "Censorship of Books"
 date: 1992-01-01
+slug: "censorship-of-books"
 description: "My oldest surviving essay, from 9th grade. My views on censorship remain largely the same."
 showDate: true
 showReadingTime: true

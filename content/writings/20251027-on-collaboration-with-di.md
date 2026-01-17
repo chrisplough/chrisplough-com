@@ -1,6 +1,7 @@
 ---
 title: "On Collaboration with DI"
 date: 2025-10-27
+slug: "on-collaboration-with-di"
 description: "What changes when you stop using AI as a tool and start collaborating with Digital Intelligence as a partner."
 showDate: true
 showReadingTime: true

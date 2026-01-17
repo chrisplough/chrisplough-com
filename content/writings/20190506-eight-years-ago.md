@@ -1,6 +1,7 @@
 ---
 title: "Eight Years Ago I Stepped Away From the Life I Knew"
 date: 2019-05-06
+slug: "eight-years-ago"
 description: "The story of leaving everything behind to find a life I had only dreamed of."
 showDate: true
 showReadingTime: true

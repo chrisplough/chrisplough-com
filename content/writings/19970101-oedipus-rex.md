@@ -1,6 +1,7 @@
 ---
 title: "Essay: Oedipus Rex"
 date: 1997-01-01
+slug: "oedipus-rex"
 description: "A theatre staging essay from my last semester at Penn State, before I ran out of money and had to drop out."
 showDate: true
 showReadingTime: true

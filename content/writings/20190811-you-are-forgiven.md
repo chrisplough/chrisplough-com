@@ -1,6 +1,7 @@
 ---
 title: "You Are Forgiven"
 date: 2019-08-11
+slug: "you-are-forgiven"
 description: "For everything. Feel that lightness. Now forgive yourself."
 showDate: true
 showReadingTime: true

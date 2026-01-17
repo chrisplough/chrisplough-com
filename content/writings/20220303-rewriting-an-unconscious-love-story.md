@@ -1,6 +1,7 @@
 ---
 title: "Rewriting an Unconscious Love Story"
 date: 2022-03-03
+slug: "rewriting-an-unconscious-love-story"
 description: "At 15, getting it stood as a declaration of unending love. At 45, removing it stands as a commitment to healthy, loving relationships."
 showDate: true
 showReadingTime: true

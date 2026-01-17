@@ -1,6 +1,7 @@
 ---
 title: "Published! Revelation in the Gobi Desert"
 date: 2020-12-11
+slug: "revelation-in-the-gobi-desert"
 description: "The story of one of the most powerful days of my life. The day I transitioned from burnt-out and lost to choosing a new path."
 showDate: true
 showReadingTime: true

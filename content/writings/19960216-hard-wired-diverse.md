@@ -1,6 +1,7 @@
 ---
 title: "Hard-Wired Diverse"
 date: 1996-02-16
+slug: "hard-wired-diverse"
 description: "A grant essay from 1996 about seeing problems from multiple perspectives."
 showDate: true
 showReadingTime: true

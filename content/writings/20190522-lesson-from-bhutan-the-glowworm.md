@@ -1,6 +1,7 @@
 ---
 title: "Lesson from Bhutan: The Glowworm"
 date: 2019-05-22
+slug: "lesson-from-bhutan-the-glowworm"
 description: "Learning to release our individual nature. To work and care for each other. To act as one."
 showDate: true
 showReadingTime: true

@@ -1,6 +1,7 @@
 ---
 title: "MUD: Stone and Winter's Room"
 date: 1995-01-01
+slug: "stone-and-winters-room"
 description: "A room I created in a text-based adventure game for the woman I fell in love with."
 showDate: true
 showReadingTime: true

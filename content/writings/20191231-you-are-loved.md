@@ -1,6 +1,7 @@
 ---
 title: "You Are Loved"
 date: 2019-12-31
+slug: "you-are-loved"
 description: "You are Loved, just as you are."
 showDate: true
 showReadingTime: true

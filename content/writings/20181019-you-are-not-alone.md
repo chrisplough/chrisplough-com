@@ -1,6 +1,7 @@
 ---
 title: "You Are Not Alone"
 date: 2018-10-19
+slug: "you-are-not-alone"
 description: "A message to those in darkness. You never were alone."
 showDate: true
 showReadingTime: true

@@ -1,6 +1,7 @@
 ---
 title: "INBOUND Bold Talk: From Empty to Full-Filled"
 date: 2017-11-16
+slug: "inbound-bold-talk"
 description: "Fueled by Meaning: Converting from the corrosive elements of ambition and ego to the sustainable fuel of fulfillment."
 showDate: true
 showReadingTime: true

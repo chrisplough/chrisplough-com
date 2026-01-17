@@ -1,6 +1,7 @@
 ---
 title: "On the Codex: Genesis of the Facets"
 date: 2025-11-30
+slug: "on-the-codex"
 description: "The messy origin of what became the Oznog DI Codex. Seven facets on a wall, trying to see the whole problem."
 showDate: true
 showReadingTime: true

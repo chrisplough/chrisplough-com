@@ -1,6 +1,7 @@
 ---
 title: "One Last Talk in Prison"
 date: 2019-04-11
+slug: "one-last-talk-in-prison"
 description: "I had never been in a prison. I had no idea what to expect. I was nervous."
 showDate: true
 showReadingTime: true

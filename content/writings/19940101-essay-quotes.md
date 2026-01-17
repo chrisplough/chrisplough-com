@@ -1,6 +1,7 @@
 ---
 title: "Essay: Quotes"
 date: 1994-01-01
+slug: "essay-quotes"
 description: "A college application essay from 1994. These quotes still resonate with me today."
 showDate: true
 showReadingTime: true

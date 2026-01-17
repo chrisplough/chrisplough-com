@@ -1,6 +1,7 @@
 ---
 title: "Manifesto: Call for an Open and Fair Internet"
 date: 2017-12-14
+slug: "manifesto"
 description: "Free and Open Global Communication is no longer a nice-to-have. It is a core right for all of humanity."
 showDate: true
 showReadingTime: true

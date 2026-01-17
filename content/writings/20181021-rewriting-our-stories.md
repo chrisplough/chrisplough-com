@@ -1,6 +1,7 @@
 ---
 title: "Rewriting Our Stories"
 date: 2018-10-21
+slug: "rewriting-our-stories"
 description: "On escaping the narratives that trap us and discovering a love beyond trust."
 showDate: true
 showReadingTime: true

@@ -1,6 +1,7 @@
 ---
 title: "The World is Naturally Weirder than We Allow it to Be"
 date: 2018-12-13
+slug: "the-world-is-naturally-weirder"
 description: "We need play and spontaneity in our lives. We need weirdness in our lives."
 showDate: true
 showReadingTime: true
