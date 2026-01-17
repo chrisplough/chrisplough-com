@@ -1,8 +1,9 @@
 ---
 title: "Speaking"
 description: "Talks, workshops, and podcast conversations on transformation, mental health, and human-AI interdependence."
-image: "/images/speaking-photo.jpg"
 ---
+
+![Speaking](/images/speaking-photo.jpg)
 
 Two talks from the hardest places.
 
@@ -64,6 +65,6 @@ Alone for the first time in 42 days, broken down in central Mongolia, I found wh
 
 ---
 
-If you're in a dark place right now, I see you. [Reach out](/contact/) if you want.
+If you're in a dark place right now, I see you. [Reach out](/contact/) if you want. I can't promise that I'm always available, but I will respond if I'm able. You matter.
 
 If you're interested in having me speak, [contact me](/contact/).

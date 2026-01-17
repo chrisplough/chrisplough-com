@@ -1,0 +1,910 @@
+/* Chris Plough Custom Styles */
+/* Personal, centered, moody - the human behind everything */
+
+/* ===== Typography ===== */
+/* Fonts loaded via layouts/partials/extend-head.html for better performance */
+
+/* ===== Color Variables ===== */
+:root {
+  --cp-bg-primary: #2E2E36;
+  --cp-bg-secondary: #3A3A44;
+  --cp-bg-overlay: rgba(67, 66, 89, 0.27);
+  --cp-text-primary: #ffffff;
+  --cp-text-secondary: rgba(255, 255, 255, 0.9);
+  --cp-text-muted: rgba(255, 255, 255, 0.7);
+  --cp-text-subtle: rgba(255, 255, 255, 0.5);
+  --cp-border: rgba(255, 255, 255, 0.6);
+  --cp-border-hover: rgba(255, 255, 255, 0.9);
+}
+
+/* ===== Base Styles ===== */
+html {
+  font-size: 18px;
+  background-color: var(--cp-bg-primary);
+}
+
+body {
+  font-family: 'Source Sans Pro', -apple-system, BlinkMacSystemFont, sans-serif;
+  font-weight: 400;
+  line-height: 1.6;
+  color: var(--cp-text-primary);
+  background-color: var(--cp-bg-primary) !important;
+}
+
+/* Homepage: override to show background image */
+body:has(.homepage) {
+  background-color: transparent !important;
+}
+
+/* ===== Homepage Specific ===== */
+.homepage {
+  min-height: calc(100vh - 200px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+/* Full-bleed background */
+.homepage .background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  background-image:
+    linear-gradient(to top, var(--cp-bg-overlay), var(--cp-bg-overlay)),
+    url('/images/bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* Hero Section */
+.homepage .hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem;
+  width: 100%;
+  max-width: 42rem;
+}
+
+.homepage .hero-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: rgba(46, 46, 54, 0.75);
+  padding: 1.75rem 2.5rem;
+  border-radius: 8px;
+  backdrop-filter: blur(2px);
+}
+
+/* Headshot */
+.homepage .headshot {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+}
+
+/* Site Name */
+.homepage .site-name {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 2.25rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  margin-bottom: 0.75rem;
+  color: var(--cp-text-primary);
+}
+
+/* Tagline */
+.homepage .tagline {
+  margin-bottom: 1.25rem;
+}
+
+.homepage .tagline p {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.7;
+  color: var(--cp-text-secondary);
+  margin: 0;
+}
+
+.homepage .tagline em {
+  font-style: italic;
+}
+
+/* CTA Navigation */
+.homepage .cta-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.6rem;
+  margin-bottom: 1rem;
+}
+
+.homepage .cta-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem 0;
+  border: 1px solid var(--cp-border);
+  color: var(--cp-text-primary);
+  text-decoration: none;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  transition: all 0.25s ease;
+  width: 120px;
+  text-align: center;
+}
+
+.homepage .cta-link:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+  border-color: var(--cp-border-hover);
+}
+
+/* ===== 404 Page ===== */
+.four-oh-four .cta-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-bottom: 3rem;
+}
+
+.four-oh-four .cta-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.6rem 0;
+  border: 1px solid var(--cp-border);
+  color: var(--cp-text-primary);
+  text-decoration: none;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  transition: all 0.25s ease;
+  width: 140px;
+  text-align: center;
+}
+
+.four-oh-four .cta-link:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+  border-color: var(--cp-border-hover);
+}
+
+/* Worth Choosing Link */
+.homepage .worth-choosing {
+  margin-top: 0.5rem;
+}
+
+.homepage .worth-choosing a {
+  color: var(--cp-text-muted);
+  text-decoration: none;
+  font-size: 0.9rem;
+  letter-spacing: 0.05em;
+  transition: color 0.2s ease;
+}
+
+.homepage .worth-choosing a:hover {
+  color: var(--cp-text-secondary);
+}
+
+/* ===== Inner Pages ===== */
+/* For inner pages (non-homepage), use solid dark background */
+.page-inner main,
+.page-inner article,
+.page-inner section {
+  background-color: var(--cp-bg-primary);
+}
+
+/* Homepage: transparent backgrounds to show full-bleed image */
+.homepage ~ * main,
+body:has(.homepage) main,
+body:has(.homepage) .relative {
+  background-color: transparent !important;
+}
+
+/* Content area - default for inner pages */
+main {
+  background-color: var(--cp-bg-primary);
+}
+
+/* Center content on interior pages */
+main > article,
+main > section,
+main > .prose,
+main > header,
+main > div:not(.homepage):not(.background) {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Also center standalone content */
+article.prose,
+.single article {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Prose styling */
+.prose,
+.prose p,
+article p {
+  color: var(--cp-text-secondary);
+}
+
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4,
+.prose strong,
+article h1,
+article h2,
+article h3,
+main h1,
+h1 {
+  color: var(--cp-text-primary) !important;
+}
+
+.prose a,
+article a {
+  color: var(--cp-text-primary);
+  text-decoration: underline;
+  transition: opacity 0.25s ease;
+}
+
+.prose a:hover,
+article a:hover {
+  opacity: 0.7;
+}
+
+/* ===== Header / Navigation ===== */
+header {
+  background-color: transparent !important;
+  position: relative;
+  z-index: 100;
+  padding-top: 1.5rem !important;
+  padding-bottom: 1rem !important;
+}
+
+/* Constrain header nav to match content width on larger screens */
+header nav {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0;
+  padding-right: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: transparent;
+}
+
+/* Fix nav link spacing */
+header nav ul {
+  display: flex;
+  flex-direction: row;
+  gap: 1.75rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+header nav ul li {
+  margin: 0;
+}
+
+header a,
+header nav a,
+header nav ul li a {
+  color: var(--cp-text-secondary) !important;
+  text-decoration: none;
+}
+
+header a:hover,
+header nav a:hover,
+header nav ul li a:hover {
+  color: var(--cp-text-primary) !important;
+}
+
+/* Home link styling */
+.home-link {
+  color: var(--cp-text-muted) !important;
+  font-size: inherit;
+}
+
+.home-link:hover {
+  color: var(--cp-text-primary) !important;
+}
+
+.home-link span {
+  color: inherit !important;
+}
+
+/* Ensure nav links have background for visibility on inner pages */
+header nav ul li a span {
+  color: var(--cp-text-secondary) !important;
+}
+
+header nav ul li a:hover span {
+  color: var(--cp-text-primary) !important;
+}
+
+/* ===== Page Title Spacing ===== */
+/* Add space between nav and page title on inner pages */
+main > h1:first-child,
+article > h1:first-child,
+.prose > h1:first-child {
+  margin-top: 0.75rem;
+}
+
+/* Reduce space between page title and first content (image) */
+article header {
+  margin-bottom: 0 !important;
+  padding-bottom: 1rem !important;
+}
+
+article header h1 {
+  margin-bottom: 0 !important;
+}
+
+/* For single posts: reduce gap between date line and content to ~54px (matching list page title-to-image gap) */
+article header > div:last-child {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+article header + .prose,
+article header + section,
+article .prose {
+  margin-top: 0 !important;
+}
+
+/* ===== Footer ===== */
+footer {
+  background-color: rgba(46, 46, 54, 0.85);
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(4px);
+  width: 100%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px 8px 0 0;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  box-sizing: border-box;
+}
+
+footer a {
+  color: var(--cp-text-muted);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+footer a:hover {
+  color: var(--cp-text-primary);
+}
+
+/* Footer ecosystem links */
+footer nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* External link arrows in footer */
+footer nav a::after {
+  content: "↗";
+  display: inline-block;
+  margin-left: 0.2em;
+  font-size: 0.75em;
+  opacity: 0.6;
+  vertical-align: super;
+}
+
+/* ===== Page Image (for inner pages) ===== */
+.page-image {
+  width: 100%;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto 2rem auto;
+}
+
+/* ===== Now Page ===== */
+.now-updated {
+  font-size: 0.85rem;
+  color: var(--cp-text-muted);
+  margin-bottom: 1.5rem;
+  font-style: italic;
+}
+
+/* ===== Lists ===== */
+.prose ul,
+.prose ol {
+  margin: 1rem 0 1.5rem 0;
+  padding-left: 1.5rem;
+}
+
+.prose li {
+  margin-bottom: 0.75rem;
+  color: var(--cp-text-secondary);
+}
+
+/* ===== Tables ===== */
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 2rem 0;
+}
+
+.prose th,
+.prose td {
+  padding: 0.75rem 1rem;
+  text-align: left;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.prose th {
+  color: var(--cp-text-primary);
+  font-weight: 600;
+}
+
+.prose td {
+  color: var(--cp-text-secondary);
+}
+
+/* ===== Blockquotes ===== */
+.prose blockquote {
+  border-left: 3px solid var(--cp-text-muted);
+  padding-left: 1.5rem;
+  margin: 2rem 0;
+  font-style: italic;
+}
+
+.prose blockquote p {
+  color: var(--cp-text-muted);
+}
+
+/* ===== Code Blocks ===== */
+/* Consistent code styling across all ecosystem sites */
+.prose code,
+.prose pre code,
+article code,
+code {
+  font-family: 'JetBrains Mono', 'Fira Code', 'SF Mono', 'Monaco', 'Inconsolata', 'Roboto Mono', monospace;
+  font-size: 0.875em;
+}
+
+/* Inline code */
+.prose code:not(pre code),
+article p code,
+article li code {
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+  color: var(--cp-text-primary);
+}
+
+/* Code blocks */
+.prose pre,
+article pre {
+  background-color: #1a1a20;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 6px;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+  overflow-x: auto;
+}
+
+.prose pre code,
+article pre code {
+  background-color: transparent;
+  padding: 0;
+  border-radius: 0;
+  color: var(--cp-text-secondary);
+  line-height: 1.6;
+}
+
+/* ===== HR / Dividers ===== */
+.prose hr,
+hr {
+  border: none;
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  margin: 2rem 0;
+}
+
+/* ===== Contact Form ===== */
+.contact-form {
+  margin-top: 1.5rem;
+}
+
+.contact-form .form-group {
+  margin-bottom: 1rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  max-width: 36rem;
+  padding: 0.75rem 1rem;
+  background-color: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: var(--cp-text-primary);
+  font-family: inherit;
+  font-size: 1rem;
+  transition: all 0.25s ease;
+}
+
+.contact-form input::placeholder,
+.contact-form textarea::placeholder {
+  color: var(--cp-text-muted);
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: var(--cp-border-hover);
+  background-color: rgba(255, 255, 255, 0.15);
+}
+
+.contact-form textarea {
+  min-height: 150px;
+  resize: vertical;
+}
+
+.contact-form button {
+  display: inline-block;
+  padding: 0.75rem 2rem;
+  border: 1px solid var(--cp-border);
+  background-color: transparent;
+  color: var(--cp-text-primary);
+  font-family: inherit;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  margin-bottom: 2rem;
+}
+
+.contact-form button:hover {
+  background-color: rgba(255, 255, 255, 0.15);
+  border-color: var(--cp-border-hover);
+}
+
+/* ===== Audio Player ===== */
+.article-audio {
+  background-color: var(--cp-bg-secondary);
+  padding: 1rem 1.25rem;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  border-radius: 4px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* Adjust gap between article header (date line) and audio player to match title-to-image gap on list pages (~54px) */
+article section.prose {
+  margin-top: 0 !important;
+}
+
+article section.prose > div > .article-audio:first-child {
+  margin-top: 0.5rem;
+}
+
+.article-audio .audio-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.article-audio .audio-label {
+  font-size: 0.9rem;
+  color: var(--cp-text-muted);
+}
+
+.article-audio .audio-download {
+  font-size: 0.8rem;
+  color: var(--cp-text-muted);
+  text-decoration: none;
+  padding: 0.25rem 0.5rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  border-radius: 3px;
+  transition: all 0.2s ease;
+}
+
+.article-audio .audio-download:hover {
+  background: rgba(255, 255, 255, 0.15);
+  color: var(--cp-text-primary);
+  border-color: var(--cp-border);
+}
+
+.article-audio audio {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.article-audio .speed-controls {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.75rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.article-audio .speed-label {
+  font-size: 0.8rem;
+  color: var(--cp-text-muted);
+}
+
+.article-audio .speed-btn {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.75rem;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: transparent;
+  color: var(--cp-text-muted);
+  cursor: pointer;
+  border-radius: 3px;
+  transition: all 0.2s ease;
+}
+
+.article-audio .speed-btn:hover,
+.article-audio .speed-btn.active {
+  background: rgba(255, 255, 255, 0.15);
+  color: var(--cp-text-primary);
+  border-color: var(--cp-border);
+}
+
+/* ===== Mobile Responsive ===== */
+@media (max-width: 640px) {
+  html {
+    font-size: 16px;
+  }
+
+  .homepage .hero {
+    padding: 1rem;
+    padding-top: 3rem;
+  }
+
+  .homepage .site-name {
+    font-size: 2rem;
+    line-height: 1.3;
+  }
+
+  .homepage .headshot {
+    width: 100px;
+    height: 100px;
+  }
+
+  .homepage .cta-link {
+    min-width: 100px;
+    padding: 0.5rem 1rem;
+  }
+
+  /* Footer links: more breathing room when wrapped */
+  footer nav ul {
+    gap: 0.5rem 1.5rem;
+    line-height: 1.6;
+  }
+
+  /* More space between footer links and copyright on mobile */
+  footer .copyright,
+  footer p {
+    margin-top: 1rem;
+  }
+}
+
+/* ===== Hide Congo defaults we don't want ===== */
+.appearance-switcher,
+[class*="appearance"],
+[class*="theme-toggle"] {
+  display: none !important;
+}
+
+/* ===== Fix viewport height issues ===== */
+html, body {
+  height: auto;
+  min-height: auto;
+}
+
+.grow {
+  flex-grow: 0;
+}
+
+/* ===== External Link Indicators ===== */
+/* Shows small arrow icon for outbound links */
+.prose a[href^="http"]:not([href*="chrisplough.com"]):not([href*="localhost"])::after,
+article a[href^="http"]:not([href*="chrisplough.com"]):not([href*="localhost"])::after,
+main a[href^="http"]:not([href*="chrisplough.com"]):not([href*="localhost"])::after {
+  content: "↗";
+  display: inline-block;
+  margin-left: 0.15em;
+  font-size: 0.75em;
+  opacity: 0.7;
+  text-decoration: none;
+  vertical-align: super;
+}
+
+/* Don't show indicator on buttons, nav links (but keep on footer) */
+header nav a[href^="http"]::after,
+.cta-link[href^="http"]::after,
+.cta-nav a[href^="http"]::after,
+.homepage .worth-choosing a::after {
+  content: none !important;
+}
+
+/* ===== Writings List Page ===== */
+/* Year headers with divider line above (except first year) */
+main section h2.mt-12,
+main section h2.first\:mt-8 {
+  position: relative;
+  padding-top: 1.5rem !important;
+  margin-top: 2.5rem !important;
+  margin-bottom: 1rem !important;
+  color: var(--cp-text-muted) !important;
+}
+
+/* Divider line above year headers via ::before - shorter than full-width HRs */
+main section h2.mt-12::before,
+main section h2.first\:mt-8::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 66%;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* First year heading doesn't need top divider - like Standpoint */
+main section h2.first\:mt-8:first-of-type::before,
+main section h2.mt-12:first-of-type::before {
+  display: none;
+}
+
+/* First year heading - match the visual gap from HR to text (~27px like other years) */
+main section h2.first\:mt-8:first-of-type,
+main section h2.mt-12:first-of-type {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Reduce the intro HR bottom margin so gap to first year matches other years */
+main > section.prose hr {
+  margin-bottom: 1.5rem !important;
+}
+
+/* Hide the dotted HR that Congo puts below year headers */
+main section h2 + hr,
+hr.border-dotted {
+  display: none !important;
+}
+
+/* Article dates: monospace for distinction */
+main section article time,
+main section article .text-neutral-500 {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.8rem;
+  letter-spacing: 0.02em;
+  color: var(--cp-text-muted) !important;
+}
+
+/* ===== Copyright styling ===== */
+footer .copyright,
+footer p {
+  text-align: center;
+  color: var(--cp-text-subtle) !important;
+  font-size: 0.85rem;
+  margin-top: 0.75rem;
+}
+
+footer .copyright a {
+  color: var(--cp-text-subtle);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+footer .copyright a:hover {
+  color: var(--cp-text-muted);
+}
+
+/* ===== Scroll to Top Arrow ===== */
+/* Fix contrast for back-to-top button - Congo uses #to-top container */
+#to-top {
+  z-index: 200 !important;
+}
+
+#to-top a,
+a[href="#the-top"],
+.scroll-top,
+[class*="scroll-to-top"],
+button[aria-label*="top"],
+a[href="#top"],
+.back-to-top {
+  color: var(--cp-text-muted) !important;
+  background-color: rgba(46, 46, 54, 0.7) !important;
+  z-index: 200 !important;
+}
+
+#to-top a:hover,
+a[href="#the-top"]:hover {
+  color: var(--cp-text-primary) !important;
+}
+
+/* ===== Writings List Meta (dates, reading time) ===== */
+/* Fix black-on-gray contrast for article metadata */
+.text-neutral-500,
+.text-neutral-600,
+.text-neutral-700,
+article time,
+article .reading-time,
+.prose time,
+[class*="text-neutral-5"],
+[class*="text-neutral-6"],
+[class*="text-neutral-7"] {
+  color: var(--cp-text-muted) !important;
+}
+
+/* Article list items metadata */
+ul li time,
+article header time,
+article header span,
+.article-meta,
+.meta time,
+.meta span {
+  color: var(--cp-text-muted) !important;
+}
+
+/* Group header years in writings list */
+h2.text-neutral-700,
+h2.text-neutral-800,
+.group-year,
+section > h2 {
+  color: var(--cp-text-secondary) !important;
+}
+
+/* ===== List Page Bottom Spacing ===== */
+/* Add spacing before footer on list pages (like Writings) */
+main > section:last-child,
+main > .list:last-child,
+main > ul:last-child {
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* ===== Single Post Pagination Nav ===== */
+/* The article footer contains pagination links */
+article > footer.max-w-prose {
+  /* Space from article content HR to top of nav section: 2rem */
+  margin-top: 2rem !important;
+  padding-top: 0 !important;
+  /* Space between pagination text and site footer: 2rem */
+  margin-bottom: 2rem !important;
+}
+
+/* Space from dark HR to nav text ("The Space Between"): 2rem */
+article > footer.max-w-prose > div.pt-8 {
+  padding-top: 2rem !important;
+}
+
+/* The inner flex container with nav links */
+article > footer.max-w-prose div.flex.justify-between {
+  padding-top: 0 !important;
+}

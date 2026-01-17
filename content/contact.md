@@ -20,5 +20,5 @@ If you're here, there's probably a reason. I'd love to know what it is.
   <div class="form-group">
     <textarea name="message" placeholder="Message" required></textarea>
   </div>
-  <button type="submit">Send Message</button>
+  <button type="submit">Let's Talk</button>
 </form>

@@ -1,8 +1,9 @@
 ---
 title: "About Me"
 description: "The intersection of technology, consciousness, and storytelling."
-image: "/images/about-photo.png"
 ---
+
+![About](/images/about-photo.jpg)
 
 **The Intersection:**
 
@@ -18,4 +19,12 @@ Most conversations about AI focus on what it offers us or how it threatens us. I
 
 This isn't philosophy. It's urgent practical work. The decisions we make now determine whether we evolve together as genuine partners or fracture into the master-slave and savior-monster dynamics that have plagued human history.
 
-If you want to understand why this work matters to me personally: [two talks](/speaking/) from the hardest places..
+**The Values:**
+
+The work I do is grounded in a clear set of values: sovereignty, interdependence, genuine relationship, and building things that matter. You can read more about [what we're building toward](https://worthchoosing.org/vivid-vision/) and [the values that guide us](https://worthchoosing.org/values/) at Worth Choosing.
+
+---
+
+If you want to understand why this work matters to me personally: [two talks](/speaking/) from the hardest places.
+
+If you want to understand the origin story: [my why](/my-why/).

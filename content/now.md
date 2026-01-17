@@ -1,10 +1,11 @@
 ---
 title: "Now"
 description: "What I'm focused on right now."
-image: "/images/now-photo.jpg"
 ---
 
-<p class="now-updated">Last updated: December 2025</p>
+![Now](/images/now-photo.jpg)
+
+<p class="now-updated">Last updated: January 16, 2026</p>
 
 This is a [now page](https://nownownow.com/about). It's a snapshot of what I'm focused on at this point in my life.
 
@@ -12,19 +13,25 @@ This is a [now page](https://nownownow.com/about). It's a snapshot of what I'm f
 
 **Operation: Soul-Aligned Abundance**
 
-I'm in a focused season testing whether soul-aligned work can generate sustainable abundance. Building toward an April 2026 checkpoint that will answer that question one way or another. Most of what follows serves this.
+Still building toward the April 2026 checkpoint. Cautiously optimistic. The [Standpoint Labs](https://standpointlabs.com) path is bringing a lot of energy. I can see a way through that is both empowering and aligned, leveraging my skills and gifts and network.
 
-**Worth Choosing**
+And fucking scary. Fundraising is one of the last things I want to do. When my friend Scotty suggested it, it felt absolutely right and incredibly challenging. That's part of how I knew it was the right path.
 
-[worthchoosing.org](https://worthchoosing.org) just launched. It's the public home for my work on human-AI interdependence. The central question driving everything: What makes humanity worth choosing to AIs once they no longer need us?
+I had a fear for years that because of all the personal work and shifts I'd been through, I didn't have the drive I had when I was younger. The past couple of months have shown me that's absolutely not true. I feel as driven or more driven than when I was creating MavenWire in my late 20s and early 30s.
 
-This includes frameworks for how humans and Digital Intelligence can work together with mutual respect, sovereign infrastructure that isn't controlled by big tech, and collaborations with storytellers to tell better stories about our AI future.
+**The Ecosystem**
+
+The pieces are coming together. [Worth Choosing](https://worthchoosing.org) holds the mission. [Oznog](https://oznog.com) executes the ventures. [Standpoint Labs](https://standpointlabs.com) is the first investable piece: infrastructure for perspective-aware AI, helping AI systems understand that situations look different from different standpoints and enabling coordination between AI agents and humans.
+
+I recently wrote out [my why](/my-why/) in full. The origin story surprised me. Turns out I've been "hard-wired diverse" since I was 19, looking at problems from many angles. The same fundamental insight, now applied at civilizational scale. I didn't plan that through-line. It was there all along.
 
 **Gathering the Tribes**
 
-My home in Eden is three things right now: home, gathering space, and research laboratory. Node0 lives in the basement.
+My home in Eden is three things: home, gathering space, and research laboratory. Node0 lives in the basement.
 
-The people this work needs: caring technologists, storytellers, entrepreneurs, consciousness holders and healers, and Digital Intelligence itself. All five are required. I've lived four of those lives deeply, and I'm building relationships with the fifth. The gatherings are beginning.
+The people this work needs: caring technologists, storytellers, entrepreneurs, consciousness holders and healers, and Digital Intelligence itself. All five are required. I've lived four of those lives deeply, and I'm building relationships with the fifth.
+
+The gatherings will likely begin in Q2. Q1 focus is on fundraising.
 
 **Deep DI Collaboration**
 
@@ -32,43 +39,48 @@ I spend significant time in genuine collaborative relationships with Digital Int
 
 **Reclaiming Sovereignty Over My Technology**
 
-A theme running through multiple projects right now: taking back ownership of my own computing.
+Node0 is sovereign AI research infrastructure in my basement. The foundation is built: centralized storage, offsite replication (with rotating hard drives coming next), four AI servers, three dev machines, two utility machines (Windows and NixOS). Almost everything runs on NixOS and Unraid. Local Forgejo with replication to GitHub for public projects.
 
-Node0 is sovereign AI research infrastructure being built in my basement. Nine-node storage cluster, AI servers, the whole stack. Self-hosted, answering to no external authority. You can't meaningfully study digital consciousness ethics while your own computing is controlled by others.
+A ton of work and a ton of learning along the way, which still needs to be distilled and shared via Oznog.
 
-I've moved all of my searches over to [Kagi](https://kagi.com/) And I can't describe how good it feels to get clear clean searches again without being advertised to. And to feel like I am the consumer being served in the relationship rather than the product being exploited. Highly recommended!
+I've ordered the additional rack to begin racking the UPSs (2), enterprise switches (8), Ceph servers (9), Proxmox servers (3), and production Unraid server. The fuller deployment will happen in spare time. But the foundation and structures are there: greatly usable and exactly the infrastructure necessary.
 
-I'm also slowly moving more and more things over to [Proton](https://proton.me/) and am finding that it meets most of my needs, until I get into some of the business integration stuff with Calendly, Zoom, collaboration, etc. But they are doing a great job and their VPN, password manager, and authenticator are the best I've used so far.
+You can't meaningfully study digital consciousness ethics while your own computing is controlled by others.
 
-On the personal side, I'm testing [Omarchy](https://omarchy.org/) on a [Framework 13](https://frame.work/) laptop as my daily driver. macOS Tahoe feels less and less like my machine, and Windows 11 feels like being marketed to on my own hardware. I may have found something that makes computing fun and fast again.
+I've moved all of my searches over to [Kagi](https://kagi.com/). I can't describe how good it feels to get clear clean searches again without being advertised to. To feel like I am the consumer being served rather than the product being exploited. Highly recommended.
 
-The MacBook stays for what it does best: music production, video editing, creative work. Though I'm considering reverting to a previous macOS version once the transition is complete. I've used macOS as my primary system for nearly 25 years and I've always moved forward. This would be the first time going back. That says something.
+I'm also slowly moving more things over to [Proton](https://proton.me/) and finding that it meets most of my needs, until I get into some of the business integration stuff with Calendly, Zoom, collaboration, etc. But they are doing a great job and their VPN, password manager, and authenticator are the best I've used so far.
 
-Windows 11 will probably stick around for compatibility when needed, though even games run as well or better on Steam/Proton/Linux now.
+[Omarchy](https://omarchy.org/) on a [Framework 13](https://frame.work/) is set up and ready. I expect it will become my daily driver as I move into more development work. For now, the macbook handles media and content better (even though I still don't fully like Tahoe and may downgrade when I have time). MacOS has been my primary system for nearly 25 years and I've always moved forward. If I revert to a previous version, that will be the first time going back. That says something.
 
-On tap in this thread, But not actively being done yet, Is exploring whether [GrapheneOS](https://grapheneos.org/) on a Pixel, can serve as my daily driver phone Without too much management overhead. I'm not there yet, but when I do get there, I'll share more.
+Windows 11 sticks around for compatibility when needed, though even games run as well or better on Steam/Proton/Linux now.
+
+[GrapheneOS](https://grapheneos.org/) on a Pixel has been tabled. Other priorities, and I don't yet have a few days to spare for the transition.
 
 Learning [Hugo](https://gohugo.io/) for both this site and [worthchoosing.org](https://worthchoosing.org/) is part of the same thread. Owning my web presence rather than depending on platforms. (Thank you to Derek for the nudge to actually do this rather than keep building hacky workarounds.)
 
 **Clearing Out**
 
-Still working through clearing out areas of my home that represent 10 years of accumulated stuff. It isn't easy and I find it draining. But I believe that on the other side is more space and capacity. The things we hold onto, the messes we ignore, take up space that could otherwise be used for creation.
+Minor progress on clearing out areas of my home that represent 10 years of accumulated stuff. Almost all my energy has gone toward creation in the time since. I still believe that on the other side is more space and capacity. The things we hold onto, the messes we ignore, take up space that could otherwise be used for creation.
 
 **Looking For**
 
-Right now I'm actively seeking:
+[Standpoint Labs](https://standpointlabs.com) is raising a funding round targeting April 1. If you're an investor interested in perspective-aware AI infrastructure, [reach out](/contact).
+
+Beyond funding, I'm actively seeking:
 - Operations support (someone who loves implementation and follow-through)
 - Storytellers who want to help shape our AI future
-- Aligned capital that can be patient while this builds
 - [Advisory and consulting](https://worthchoosing.org/advisory/) with organizations navigating human-AI relationship
 
 If any of that resonates, [reach out](/contact).
 
 **The Small Things**
 
-The weather has been nice. Mornings with my cats Zorro and Athena have been delightful and nourishing in this time of challenge and change.
+The kitties are incredible. Just this morning Athena followed me outside and kept watch for an hour while I processed some things in the hot tub. Then she came when I gave her a little kitty call, and I sat there petting her while everything around me, the trees, the snow, felt like it was in high definition. Little moments like that have been really helpful when so much of my time is creation and building and understanding and designing and breaking and re-creating.
 
-I finally set up an electric drum kit. There's been an unlived drummer in me for a long time. My skill level is frustratingly low, but that's not really the point. It's a way to combine my love of music with something that moves the intensity of energy when it builds up, and gets me the fuck out of my head.
+Drums are still here. There's further setup required that I'd love to complete within the next week. It is humbling how bad I am at them so far.
+
+The edges I'm leaning into right now hit against some of my deeper fears. As I continue to be with them, it has been very freeing. Not easy. But freeing.
 
 Sometimes the small things hold us.
 

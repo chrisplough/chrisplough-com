@@ -1,0 +1,42 @@
+/* Chris Plough Color Scheme */
+/* Dark, moody, personal - the human behind the work */
+/* Based on original Carrd-ported theme colors */
+
+:root {
+  /* Primary background: #2E2E36 */
+  --color-neutral-50: 46 46 54;      /* Background */
+  --color-neutral-100: 58 58 68;
+  --color-neutral-200: 70 70 82;
+  --color-neutral-300: 90 90 105;
+  --color-neutral-400: 120 120 140;
+  --color-neutral-500: 160 160 175;
+  --color-neutral-600: 200 200 210;
+  --color-neutral-700: 220 220 228;
+  --color-neutral-800: 240 240 245;
+  --color-neutral-900: 255 255 255;  /* Text */
+
+  /* Accent - subtle, not aggressive (unlike Oznog's red) */
+  /* Using a muted warm tone */
+  --color-primary-50: 70 65 60;
+  --color-primary-100: 90 82 75;
+  --color-primary-200: 120 108 98;
+  --color-primary-300: 150 135 120;
+  --color-primary-400: 180 162 145;
+  --color-primary-500: 200 182 165;
+  --color-primary-600: 215 198 182;
+  --color-primary-700: 230 215 200;
+  --color-primary-800: 242 232 222;
+  --color-primary-900: 252 248 244;
+
+  /* Secondary - keeping neutral */
+  --color-secondary-50: 46 46 54;
+  --color-secondary-100: 58 58 68;
+  --color-secondary-200: 70 70 82;
+  --color-secondary-300: 90 90 105;
+  --color-secondary-400: 120 120 140;
+  --color-secondary-500: 160 160 175;
+  --color-secondary-600: 200 200 210;
+  --color-secondary-700: 220 220 228;
+  --color-secondary-800: 240 240 245;
+  --color-secondary-900: 255 255 255;
+}

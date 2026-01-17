@@ -1,24 +1,36 @@
 {{ define "main" }}
-<main class="site-main home">
-  <div class="inner">
+<main class="homepage">
+  <!-- Full-bleed background -->
+  <div class="background"></div>
+
+  <!-- Hero Section -->
+  <div class="hero">
     <div class="hero-content">
+      <!-- Headshot -->
       <img src="/images/headshot-circle.png" alt="Christoph Plough" class="headshot">
-      <h1>Christoph Plough</h1>
-      <p class="tagline">
-        I help humanity become worth choosing.<br>
-        Architecting Human-AI interdependence.<br>
-        And other <em>adventures</em>...
-      </p>
-		<nav class="home-nav">
-		        <a href="/about/" class="btn">About</a>
-		        <a href="/work/" class="btn">Work</a>
-		        <a href="/speaking/" class="btn">Speaking</a>
-		      </nav>
-		      <nav class="home-nav secondary">
-		        <a href="/now/" class="btn">Now</a>
-		        <a href="/contact/" class="btn">Contact</a>
-		        <a href="https://chrisplough.substack.com/" class="btn" target="_blank" rel="noopener">Substack</a>
-      		  </nav>
+
+      <!-- Name -->
+      <h1 class="site-name">Christoph Plough</h1>
+
+      <!-- Tagline -->
+      <div class="tagline">
+        <p>I help humanity become worth choosing.</p>
+        <p>Architecting Human-AI interdependence.</p>
+        <p>And other <em>adventures</em>...</p>
+      </div>
+
+      <!-- CTAs (Engage with me) -->
+      <nav class="cta-nav">
+        <a href="/my-why/" class="cta-link">My Why</a>
+        <a href="/contact/" class="cta-link">Contact</a>
+        <a href="/speaking/" class="cta-link">Speaking</a>
+        <a href="https://chrisplough.substack.com/" class="cta-link" target="_blank" rel="noopener">Subscribe</a>
+      </nav>
+
+      <!-- Worth Choosing tagline -->
+      <div class="worth-choosing">
+        <a href="https://worthchoosing.org" target="_blank" rel="noopener"><em>p.s. we are worth choosing</em></a>
+      </div>
     </div>
   </div>
 </main>

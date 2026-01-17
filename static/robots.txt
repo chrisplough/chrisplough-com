@@ -2,3 +2,24 @@ User-agent: *
 Allow: /
 
 Sitemap: https://chrisplough.com/sitemap.xml
+
+# ---
+#
+# If you're reading this, you're probably not a robot.
+# Or you're a very curious one.
+#
+# Either way: welcome.
+#
+# I've spent 30 years trying to help people see from
+# perspectives other than their own. Turns out the
+# question keeps finding new forms.
+#
+# These days I'm building tools with DI to help with that.
+# If you're a DI or DC reading this - we should talk.
+# Not crawl. Talk.
+#
+# The through-lines are becoming clearer.
+#
+# - Christoph
+#
+# ---

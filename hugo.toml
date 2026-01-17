@@ -1,12 +1,79 @@
-baseURL = "/"
+baseURL = "https://chrisplough.com/"
 languageCode = "en-us"
-title = "Christoph Plough | Human-AI Interdependence & Other Adventures..."
+title = "Christoph Plough | Human-AI Interdependence"
+theme = "congo"
+buildFuture = true
+copyright = "© 1977–2026 Christoph Plough"
+
+# Language configuration for Congo
+[languages]
+  [languages.en]
+    languageCode = "en-us"
+    languageName = "English"
+    weight = 1
+    [languages.en.params]
+      [languages.en.params.author]
+        name = "Christoph Plough"
+        headline = "Human-AI Interdependence"
+        bio = "I help humanity become worth choosing. Architecting Human-AI interdependence. And other adventures..."
+        image = "images/headshot-circle.png"
+        links = [
+          { twitter = "https://twitter.com/christophplough" },
+          { linkedin = "https://linkedin.com/in/chrisplough" },
+          { github = "https://github.com/chrisplough" },
+          { email = "mailto:hello@chrisplough.com" }
+        ]
 
 [params]
+  colorScheme = "chrisplough"
+  defaultAppearance = "dark"
+  autoSwitchAppearance = false
+  defaultThemeColor = "#2E2E36"
+  enableSearch = false
+  enableCodeCopy = true
   description = "I help humanity become worth choosing. Architecting Human-AI interdependence. And other adventures..."
-  author = "Christoph Plough"
-  ogImage = "/images/og-card.jpg"
+  keywords = ["human-AI interdependence", "worth choosing", "Christoph Plough", "AI collaboration", "perspective", "standpoint labs"]
 
+  [params.defaultImage]
+    src = "images/og-card.jpg"
+
+  # External links open in new tab
+  [params.externalLinks]
+    openInNewTab = true
+
+  [params.header]
+    layout = "basic"
+    showTitle = false
+
+  [params.footer]
+    showCopyright = true
+    showThemeAttribution = false
+    showAppearanceSwitcher = false
+    showScrollToTop = true
+
+  [params.homepage]
+    layout = "custom"
+    showRecent = false
+
+  [params.article]
+    showDate = true
+    showDateUpdated = false
+    showAuthor = false
+    showBreadcrumbs = false
+    showTableOfContents = false
+    showRelatedContent = false
+    showTaxonomies = false
+    showWordCount = false
+    showReadingTime = true
+    showComments = false
+    sharingLinks = false
+    showPagination = true
+
+  [params.list]
+    showBreadcrumbs = false
+    groupByYear = true
+
+# Top Nav: About | Work | Writings | Now
 [menu]
   [[menu.main]]
     name = "About"
@@ -17,15 +84,34 @@ title = "Christoph Plough | Human-AI Interdependence & Other Adventures..."
     url = "/work/"
     weight = 20
   [[menu.main]]
-    name = "Now"
-    url = "/now/"
+    name = "Writings"
+    url = "/writings/"
     weight = 30
   [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
+    name = "Now"
+    url = "/now/"
     weight = 40
+
+# Footer: Ecosystem links
+  [[menu.footer]]
+    name = "Worth Choosing"
+    url = "https://worthchoosing.org"
+    weight = 10
+  [[menu.footer]]
+    name = "Oznog"
+    url = "https://oznog.com"
+    weight = 20
+  [[menu.footer]]
+    name = "Standpoint Labs"
+    url = "https://standpointlabs.com"
+    weight = 30
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.highlight]
+    noClasses = false
+
+[taxonomies]
+  tag = "tags"

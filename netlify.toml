@@ -1,12 +1,21 @@
 [build]
-  command = "hugo --minify"
   publish = "public"
+  command = "rm -rf themes/congo && git clone https://github.com/jpanther/congo.git themes/congo && cp -r themes/congo/layouts/_partials themes/congo/layouts/partials && cp -r themes/congo/layouts/_shortcodes themes/congo/layouts/shortcodes && mkdir -p themes/congo/layouts/_default && cp themes/congo/layouts/*.html themes/congo/layouts/_default/ && hugo --gc --minify"
 
 [build.environment]
-  HUGO_VERSION = "0.152.2"
+  HUGO_VERSION = "0.121.0"
+
+[context.production.environment]
+  HUGO_ENV = "production"
 
 [[redirects]]
   from = "https://www.chrisplough.com/*"
   to = "https://chrisplough.com/:splat"
   status = 301
   force = true
+
+# Handle form submissions
+[dev]
+  framework = "#custom"
+  command = "hugo server -D"
+  targetPort = 1313
