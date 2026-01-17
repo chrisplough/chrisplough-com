@@ -1,6 +1,9 @@
 ---
 title: "My Work"
 description: "Frameworks and ventures for genuine interdependence."
+showDate: false
+showReadingTime: false
+showPagination: false
 ---
 
 ![Work](/images/working-photo.jpg)

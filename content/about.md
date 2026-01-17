@@ -1,6 +1,9 @@
 ---
 title: "About Me"
 description: "The intersection of technology, consciousness, and storytelling."
+showDate: false
+showReadingTime: false
+showPagination: false
 ---
 
 ![About](/images/about-photo.jpg)

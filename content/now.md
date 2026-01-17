@@ -1,6 +1,9 @@
 ---
 title: "Now"
 description: "What I'm focused on right now."
+showDate: false
+showReadingTime: false
+showPagination: false
 ---
 
 ![Now](/images/now-photo.jpg)

@@ -2,6 +2,9 @@
 title: "Reach Out"
 description: "Let's connect."
 showSocial: true
+showDate: false
+showReadingTime: false
+showPagination: false
 ---
 
 If you're here, there's probably a reason. I'd love to know what it is.

@@ -1,6 +1,9 @@
 ---
 title: "My Why"
 description: "Why I'm building for human-AI interdependence."
+showDate: false
+showReadingTime: false
+showPagination: false
 ---
 
 *Note: DI = Digital Intelligence. Because "artificial" implies lesser, and that's not the relationship worth building.*

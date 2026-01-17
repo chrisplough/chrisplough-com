@@ -1,6 +1,9 @@
 ---
 title: "Speaking"
 description: "Talks, workshops, and podcast conversations on transformation, mental health, and human-AI interdependence."
+showDate: false
+showReadingTime: false
+showPagination: false
 ---
 
 ![Speaking](/images/speaking-photo.jpg)
