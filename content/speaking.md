@@ -24,7 +24,7 @@ At 16, I put a shotgun in my mouth. At 40, I decided to end my life on my birthd
 
 ## From Empty to Full-Filled
 
-I had everything - seven-figure business, the house, the cars - and I was empty. This is the story of driving an ambulance 10,000 miles from the UK to Mongolia, and what I found in the Gobi Desert.
+I had everything - seven-figure business, the house, the cars - and I was empty. This is the story of driving an ambulance 10,000 miles from the UK to Mongolia, and what I found in the Gobi Desert. [Read the backstory.](/writings/inbound-bold-talk/)
 
 ---
 
@@ -64,7 +64,7 @@ Workshops go deeper - interactive sessions where participants work with the mate
 ## Published
 
 - "Revelation in the Gobi Desert" - a chapter in _Ignite Your Inner Spirit_:
-Alone for the first time in 42 days, broken down in central Mongolia, I found what I'd been running from. [Amazon](https://www.amazon.com/dp/B08PC8JS8H)
+Alone for the first time in 42 days, broken down in central Mongolia, I found what I'd been running from. [Read more.](/writings/revelation-in-the-gobi-desert/) [Amazon](https://www.amazon.com/dp/B08PC8JS8H)
 
 ---
 

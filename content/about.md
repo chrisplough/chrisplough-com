@@ -31,3 +31,5 @@ The work I do is grounded in a clear set of values: sovereignty, interdependence
 If you want to understand why this work matters to me personally: [two talks](/speaking/) from the hardest places.
 
 If you want to understand the origin story: [my why](/my-why/).
+
+If you want to understand the moment I stepped away from the life I knew: [eight years ago](/writings/eight-years-ago/).

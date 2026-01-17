@@ -20,7 +20,7 @@ None of them end well.
 
 ## Hard-Wired Diverse
 
-In 1996, I was 19, applying for a grant to go to Penn State. I wrote:
+In 1996, I was 19, applying for a grant to go to Penn State. [I wrote](/writings/hard-wired-diverse/):
 
 > *"I guess I'm what would be called a 'Diverse Person'... Sometimes this 'hard-wired' diversity of mine comes in very handy when I'm trying to work out a problem. I use it to look at the problems from many angles and in different situations, and thus make them easier to solve and relate into my own experience."*
 

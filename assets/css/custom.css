@@ -908,3 +908,26 @@ article > footer.max-w-prose > div.pt-8 {
 article > footer.max-w-prose div.flex.justify-between {
   padding-top: 0 !important;
 }
+
+/* ===== List Page Pagination ===== */
+/* Fix pagination colors to match our dark theme */
+main ul.flex.flex-row li a,
+main ul.flex.flex-row li span {
+  color: var(--cp-text-muted) !important;
+}
+
+main ul.flex.flex-row li a:hover {
+  color: var(--cp-text-primary) !important;
+  background-color: rgba(255, 255, 255, 0.15) !important;
+}
+
+/* Current page indicator */
+main ul.flex.flex-row li span[aria-current="page"] {
+  color: var(--cp-text-primary) !important;
+  background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+/* Pagination dots */
+main ul.flex.flex-row li:not(:has(a)):not(:has(span[aria-current])) {
+  color: var(--cp-text-muted) !important;
+}
