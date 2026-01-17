@@ -18,7 +18,7 @@ This is a [now page](https://nownownow.com/about). It's a snapshot of what I'm f
 
 Still building toward the April 2026 checkpoint. Cautiously optimistic. The [Standpoint Labs](https://standpointlabs.com) path is bringing a lot of energy. I can see a way through that is both empowering and aligned, leveraging my skills and gifts and network.
 
-And fucking scary. Fundraising is one of the last things I want to do. When my friend Scotty suggested it, it felt absolutely right and incredibly challenging. That's part of how I knew it was the right path.
+And fucking scary. Fundraising is one of the last things I want to do. When my friend Scotty suggested it, it felt absolutely right and incredibly challenging. That's part of how I knew it was the right path. I wrote about it: [On Returning to Commercial Space](/writings/on-returning-to-commercial-space/).
 
 I had a fear for years that because of all the personal work and shifts I'd been through, I didn't have the drive I had when I was younger. The past couple of months have shown me that's absolutely not true. I feel as driven or more driven than when I was creating MavenWire in my late 20s and early 30s.
 
