@@ -32,10 +32,10 @@ copyright = "© 1977–2026 Christoph Plough"
   enableSearch = false
   enableCodeCopy = true
   description = "I help humanity become worth choosing. Architecting Human-AI interdependence. And other adventures..."
-  keywords = ["human-AI interdependence", "worth choosing", "Christoph Plough", "AI collaboration", "perspective", "standpoint labs"]
+  keywords = ["Christoph Plough", "Chris Plough", "Digital Intelligence", "fifth story", "human-AI interdependence", "worth choosing", "oznog", "adventurex", "littleplow", "AI collaboration", "standpoint labs"]
 
   [params.defaultImage]
-    src = "images/og-card.jpg"
+    src = "og-image.jpg"
 
   # External links open in new tab
   [params.externalLinks]
