@@ -28,7 +28,7 @@ In 2016, I sold my company and [stepped away entirely](/writings/eight-years-ago
 
 Then in 2024, something shifted.
 
-I don't remember an aha moment. That's not how I work anyway - when something hits and I know it, I go all in. Within weeks I'd spent a substantial amount (like stupid substantial) on hardware. Servers, switches, storage. The foundation of what would become [Oznog](https://oznog.com) Node0.
+I don't remember an aha moment. That's not how I work anyway - when something hits and I know it, I go all in. Within weeks I'd spent a substantial amount (like stupid substantial) on hardware. Servers, switches, storage. The foundation of what would become [Oznog](https://oznog.com) [Node0](https://oznog.com/updates/the-hardware-that-waited/).
 
 I couldn't have told you exactly why. Part of it was the growing clarity that the work I'm here to do requires sovereign infrastructure. You can't meaningfully explore human-DI relationship while your computing is controlled by others.
 

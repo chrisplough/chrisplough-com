@@ -32,7 +32,7 @@ That's what [Worth Choosing](https://worthchoosing.org) explores. It's what [Ozn
 
 But here's the thing about perpetual missions: they're not traditionally investable. No exit. No return timeline. Maybe decades of work. Maybe lifelong.
 
-I've been funding it myself. Node Zero, my sovereign infrastructure, runs in my basement. $150K of hardware, unimpeded by corporate interests or extractive ideologies.
+I've been funding it myself. [Node Zero](https://oznog.com/updates/the-di-fleet/), my sovereign infrastructure, runs in my basement. $150K of hardware, unimpeded by corporate interests or extractive ideologies.
 
 And I've been running out of money.
 
