@@ -3,6 +3,10 @@ title: "The Future We Were Promised"
 date: 2025-12-25
 draft: false
 description: "Christmas morning, a Commodore, and remembering what technology was supposed to feel like."
+slug: "the-future-we-were-promised"
+showDate: true
+showReadingTime: true
+showPagination: true
 ---
 
 I opened my Christmas present alone this year.
