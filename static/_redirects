@@ -129,6 +129,10 @@
 
 # Speaking at events
 /im-speaking-at-one-last-talk-boulder/       /speaking/                                  301
+/onelasttalk                                 /speaking/                                  301
+
+# Old speaking page images/subpages
+/speaking/chrisplough-speaking-ted-2/        /speaking/                                  301
 
 # ===========================================
 # OLD CONTENT - No longer exists, redirect to relevant sections
@@ -192,6 +196,22 @@
 /category/*                                  /writings/                                  301
 /tag/*                                       /writings/                                  301
 /page/*                                      /writings/                                  301
+
+# WordPress date archives
+/2015/*                                      /writings/                                  301
+/2016/*                                      /writings/                                  301
+/2017/*                                      /writings/                                  301
+/2018/*                                      /writings/                                  301
+/2019/*                                      /writings/                                  301
+/2020/*                                      /writings/                                  301
+/2021/*                                      /writings/                                  301
+/2022/*                                      /writings/                                  301
+/2023/*                                      /writings/                                  301
+/2024/*                                      /writings/                                  301
+
+# Old social share URLs (Tumblr, etc.) - strip query params via base redirect
+/im-ready/                                   /writings/                                  301
+/im-ready/*                                  /writings/                                  301
 
 # ===========================================
 # EVENTS - Old events system
