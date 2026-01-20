@@ -15,3 +15,7 @@ showPagination: true
 > What do you want to create?
 
 —Chris
+
+---
+
+*Six months later, on the way to Necker Island, this became a mantra: [Play - Create - Now](/writings/play-create-now).*

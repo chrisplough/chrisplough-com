@@ -13,3 +13,7 @@ showPagination: true
 I forgive you. I apologize to you. Let's start again on level ground.
 
 —Chris
+
+---
+
+*Months later, I wrote the other side: [You Are Forgiven](/writings/you-are-forgiven).*

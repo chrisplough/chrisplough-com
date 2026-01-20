@@ -59,7 +59,7 @@ So I ask you this: what story have you let define you? Is it still true, or have
 Infinite Love,
 —Chris
 
-*Four years later, I would [rewrite another story](/writings/rewriting-an-unconscious-love-story/) - one I didn't even know I was carrying.*
+*Four years later, I would [rewrite another story](/writings/rewriting-an-unconscious-love-story/) - one I didn't even know I was carrying. And the summer before that, I'd return to Pennsylvania to [face what was left unprocessed](/writings/not-what-i-expected).*
 
 ---
 

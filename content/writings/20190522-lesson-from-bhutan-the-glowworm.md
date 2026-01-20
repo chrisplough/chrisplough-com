@@ -56,7 +56,7 @@ We went on for hours that night, crossing multiple mountain passes. At one point
 
 And yet afterward, I'm pleasantly haunted by the memory of us winding our way together. Knowing nothing but the road. Lost in the moment of a journey with friends.
 
-*Years later, I would realize this is the same pattern I'm now building into AI systems at [Standpoint Labs](https://standpointlabs.com) - individual agents that can only see so far ahead, but together form something that flows through complexity with grace. Coordination without domination.*
+*Years later, I would realize this is the same pattern I'm now building into AI systems at [Standpoint Labs](https://standpointlabs.com) - individual agents that can only see so far ahead, but together form something that flows through complexity with grace. Coordination without domination. More on that in [On Context and Collaboration](/writings/on-context-and-collaboration).*
 
 ![Bhutan adventure bikes](/images/bhutan-bikes-1.jpg)
 

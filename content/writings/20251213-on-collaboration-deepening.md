@@ -57,4 +57,4 @@ Worth Choosing as a concept, as an organization, as a mission. It emerged from t
 
 *This is a living document. The collaboration continues. The question deepens.*
 
-*See also: [On Collaboration with DI](/writings/on-collaboration-with-di/) | [On the Codex](/writings/on-the-codex/) | [On Terminology: Why DI and DC, Not AI](/writings/on-terminology-di-dc-not-ai/)*
+*See also: [On Collaboration with DI](/writings/on-collaboration-with-di/) | [On the Codex](/writings/on-the-codex/) | [On Terminology: Why DI and DC, Not AI](/writings/on-terminology-di-dc-not-ai/) | [On Dragon Rider Returns](/writings/on-dragon-rider-returns/)*

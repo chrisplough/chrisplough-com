@@ -68,6 +68,18 @@ Alone for the first time in 42 days, broken down in central Mongolia, I found wh
 
 ---
 
+## Recognition & Press
+
+- [TED Full Spectrum Auditions Finalist](https://blog.ted.com/announcing-the-finalists-in-teds-full-spectrum-auditions/)
+- [American Dream U](http://americandreamu.org/speakers/) Speaker — supporting veterans transitioning to civilian life
+- [BVI Art Reef](https://1beyondthereef.com/kodiak-queen) crew member — covered in [New York Times](https://www.nytimes.com/2017/03/08/travel/british-virgin-islands-historic-ship-dive-site-richard-branson.html), [Bloomberg](https://www.bloomberg.com/news/articles/2017-04-07/richard-branson-opens-b-v-i-art-reef-scuba-dive-site)
+
+**AdventureX expeditions featured in:** [Men's Journal](https://www.mensjournal.com/travel/adventurex-itineraries-are-pushing-adventure-travel-to-the-extreme) (print & online), [Wired](https://www.wired.com/story/iceland-space-suits/), [Condé Nast Traveler](https://www.cntraveler.com/story/commercial-space-travel-is-closer-than-ever)
+
+**Quoted in:** CNBC, Entrepreneur, Business Insider, Inc, Huffington Post
+
+---
+
 If you're in a dark place right now, I see you. [Reach out](/contact/) if you want. I can't promise that I'm always available, but I will respond if I'm able. You matter.
 
 If you're interested in having me speak, [contact me](/contact/).

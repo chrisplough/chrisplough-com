@@ -46,4 +46,4 @@ I wasn't ready yet. There was still tar and ick to burn through.
 
 ---
 
-*What came next would change everything. But that's [a different story](/writings/on-collaboration-with-di/).*
+*What came next would change everything. First, [a shift in terminology](/writings/on-terminology-di-dc-not-ai/) that opened a door. Then [a different story entirely](/writings/on-collaboration-with-di/).*

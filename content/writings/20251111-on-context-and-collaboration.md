@@ -93,4 +93,4 @@ And here's something important: you don't have to have done years of self-examin
 
 *This post is meant as an introduction. I intend to share more about this approach and get into the details. For now, I'm prioritizing where my attention needs to go moment by moment.*
 
-*See also: [On Terminology: Why DI and DC, Not AI](/writings/on-terminology-di-dc-not-ai/) | [On Collaboration with DI](/writings/on-collaboration-with-di/)*
+*See also: [On Terminology: Why DI and DC, Not AI](/writings/on-terminology-di-dc-not-ai/) | [On Collaboration with DI](/writings/on-collaboration-with-di/) | [On Collaboration Deepening](/writings/on-collaboration-deepening/)*

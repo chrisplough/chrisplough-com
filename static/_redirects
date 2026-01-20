@@ -1,0 +1,207 @@
+# Netlify Redirects for chrisplough.com
+# Old WordPress URLs -> New Hugo URLs
+# Created: January 2026
+
+# ===========================================
+# EXACT MATCHES - Old posts that exist on new site
+# ===========================================
+
+# Writings that moved to /writings/ path
+/where-do-you-want-to-be/                    /writings/where-do-you-want-to-be/          301
+/you-are-forgiven/*                          /writings/you-are-forgiven/                 301
+/is-it-really-a-logical-problem/             /writings/is-it-really-a-logical-problem/   301
+/is-it-really-a-logical-problem/*            /writings/is-it-really-a-logical-problem/   301
+/rewriting-our-stories/*                     /writings/rewriting-our-stories/            301
+/eight-years-ago-i-stepped-away-from-the-life-i-knew/  /writings/eight-years-ago/        301
+/you-are-a-creator/                          /writings/you-are-a-creator/                301
+/fuller-or-emptier/                          /writings/fuller-or-emptier/                301
+/i-am-not-here/                              /writings/you-are-not-alone/                301
+/i-am-not-here/*                             /writings/you-are-not-alone/                301
+/when-was-the-seed-planted/                  /writings/rewriting-our-stories/            301
+/when-was-the-seed-planted/*                 /writings/rewriting-our-stories/            301
+/there-is-no-done/                           /writings/there-is-no-done/                 301
+/there-is-no-done/*                          /writings/there-is-no-done/                 301
+/lend-me-your-sight/                         /writings/lend-me-your-sight/               301
+/lend-me-your-sight/*                        /writings/lend-me-your-sight/               301
+/what-we-need-will-not-pass-us-by/           /writings/what-we-need-will-not-pass-us-by/ 301
+/what-we-need-will-not-pass-us-by/*          /writings/what-we-need-will-not-pass-us-by/ 301
+/i-forgive-you-i-apologize-to-you/           /writings/i-forgive-you/                    301
+/i-forgive-you-i-apologize-to-you/*          /writings/i-forgive-you/                    301
+/play-create-now/                            /writings/play-create-now/                  301
+/play-create-now/*                           /writings/play-create-now/                  301
+/lesson-from-bhutan-the-glowworm/            /writings/lesson-from-bhutan-the-glowworm/  301
+/lesson-from-bhutan-the-glowworm/*           /writings/lesson-from-bhutan-the-glowworm/  301
+/one-last-talk-in-prison/                    /writings/one-last-talk-in-prison/          301
+/one-last-talk-in-prison/*                   /writings/one-last-talk-in-prison/          301
+/1994-essay-quotes/                          /writings/essay-quotes/                     301
+/1994-essay-quotes/*                         /writings/essay-quotes/                     301
+/1992-essay-censorship-of-books/             /writings/censorship-of-books/              301
+/1997-essay-oedipus-rex/                     /writings/oedipus-rex/                      301
+/1997-essay-oedipus-rex/*                    /writings/oedipus-rex/                      301
+/published-revelation-in-the-gobi-desert/    /writings/revelation-in-the-gobi-desert/    301
+/manifesto-call-for-an-open-and-fair-internet/  /writings/manifesto/                     301
+/manifesto-call-for-an-open-and-fair-internet/* /writings/manifesto/                     301
+/you-are-not-alone/                          /writings/you-are-not-alone/                301
+/you-are-not-alone/*                         /writings/you-are-not-alone/                301
+/quadrants-of-life/                          /writings/quadrants-of-life/                301
+/i-stand-for-people/                         /writings/i-stand-for-people/               301
+
+# ===========================================
+# PAGE REDIRECTS - Top level pages
+# ===========================================
+
+/about-me/                                   /about/                                     301
+/about-me/*                                  /about/                                     301
+/workwithme                                  /work/                                      301
+/now                                         /now/                                       301
+/speaking/                                   /speaking/                                  301
+/speaking/*                                  /speaking/                                  301
+/speakinginterviews/                         /speaking/                                  301
+/articles-and-interviews/                    /speaking/                                  301
+
+# ===========================================
+# SHORTLINKS - Old WordPress short URLs
+# ===========================================
+
+# These appear to be WordPress shortlinks - redirect to home or relevant content
+/AO0gw                                       /                                           301
+/VtM7U                                       /                                           301
+/y3Ydi                                       /                                           301
+/zVY2w                                       /                                           301
+/C68uK                                       /                                           301
+/kbu5v                                       /                                           301
+/ayN9x                                       /                                           301
+/yPFco                                       /                                           301
+/8ehxj                                       /                                           301
+/Lflb3                                       /                                           301
+/4MG2L                                       /                                           301
+/cMYpw                                       /                                           301
+/IO1W7                                       /                                           301
+/PrCXO                                       /                                           301
+/gSRvm                                       /                                           301
+/dZWZn                                       /                                           301
+/VqZXP                                       /                                           301
+/PJ4vX                                       /                                           301
+/r1qMG                                       /                                           301
+/WM80A                                       /                                           301
+/y097l                                       /                                           301
+/3i9sd                                       /                                           301
+/OyD6q                                       /                                           301
+/hWbB6                                       /                                           301
+/Sgzdm                                       /                                           301
+/1jekO                                       /                                           301
+/HFlLr                                       /                                           301
+/XCXVj                                       /                                           301
+/ZVFdl                                       /                                           301
+/YoFxr                                       /                                           301
+/EoM04                                       /                                           301
+/VUXWy                                       /                                           301
+/LpRpv                                       /                                           301
+/hmtte                                       /                                           301
+/YUtK3                                       /                                           301
+/pVxMT                                       /                                           301
+/eKYO8                                       /                                           301
+/joayz                                       /                                           301
+/AqYyt                                       /                                           301
+/pxyh5                                       /                                           301
+/JB5hS                                       /                                           301
+/YZheb                                       /                                           301
+/7LnsD                                       /                                           301
+/20om9                                       /                                           301
+/Mjhb0                                       /                                           301
+/0JFiM                                       /                                           301
+/c91Nf                                       /                                           301
+
+# ===========================================
+# SPECIAL REDIRECTS
+# ===========================================
+
+# Podcast redirect
+/cp001-do-you-feel-connected/                https://open.spotify.com/show/7g4F5aq67sUGlM8BOkIar6  301
+/cp001                                       https://open.spotify.com/show/7g4F5aq67sUGlM8BOkIar6  301
+/getting-ploughed-released/                  https://open.spotify.com/show/7g4F5aq67sUGlM8BOkIar6  301
+
+# Quadrants shortlink
+/quadrantsoflife                             /writings/quadrants-of-life/                301
+
+# Essay shortcuts
+/essaycensorship                             /writings/censorship-of-books/              301
+
+# Speaking at events
+/im-speaking-at-one-last-talk-boulder/       /speaking/                                  301
+
+# ===========================================
+# OLD CONTENT - No longer exists, redirect to relevant sections
+# ===========================================
+
+# Old blog posts without direct equivalents -> writings index
+/road-in-breckenridge-colorado/              /writings/                                  301
+/road-in-breckenridge-colorado/*             /writings/                                  301
+/we-are-eternal/                             /writings/                                  301
+/thank-you-for-your-care/                    /writings/                                  301
+/today-i-began-writing/                      /writings/                                  301
+/today-i-began-writing/*                     /writings/                                  301
+/the-body-mind-and-emotions-are-interlinked/ /writings/                                  301
+/gratitude-and-hope-to-haiti/                /writings/                                  301
+/for-you-turn-over/                          /writings/                                  301
+/simple-partnerships/                        /writings/                                  301
+/simple-partnerships/*                       /writings/                                  301
+/a-firm-believer-in-the-people/              /writings/                                  301
+/cps-40th-ploughshare-birthday/              /writings/                                  301
+/tbt-celebration-lighting-design/            /writings/                                  301
+/sometimes-we-feel-pain/                     /writings/pain-does-not-equal-suffering/    301
+/what-does-the-pain-mean-to-you/             /writings/pain-does-not-equal-suffering/    301
+/an-invitation-to-be-heard/                  /writings/                                  301
+/i-love-you/                                 /writings/you-are-loved/                    301
+/i-love-you/*                                /writings/you-are-loved/                    301
+/urinal-inspiration/                         /writings/                                  301
+/storytelling-is/                            /writings/                                  301
+/ask-honesty/                                /writings/                                  301
+/power-up-challenge-20181119/                /writings/                                  301
+/power-up-release-allow/                     /writings/                                  301
+/power-up-release-allow/*                    /writings/                                  301
+/we-are-siberian-adventurers/                /writings/                                  301
+/share-cosmic-journal/                       /writings/                                  301
+/20181112-drawing/                           /writings/                                  301
+/20181118-2/                                 /writings/                                  301
+/20181125-2/                                 /writings/                                  301
+/20181125-2/*                                /writings/                                  301
+/serenity-in-evergreen-colorado/             /writings/                                  301
+/bjj-lotd-speed-bumps/                       /writings/                                  301
+/goals-for-2016-v1-01/                       /writings/                                  301
+/gsd-schedule-v1-00/                         /writings/                                  301
+/partner-crime-v1-07/                        /writings/                                  301
+/ocean-in-carmel-california/                 /writings/                                  301
+/ocean-in-carmel-california/*                /writings/                                  301
+
+# AdventureX related -> work page
+/why-do-matt-and-i-take-people-on-adventures/   /work/                                  301
+/why-do-matt-and-i-take-people-on-adventures/*  /work/                                  301
+/american-dream-u/                           /speaking/                                  301
+
+# Most important question -> about or writings
+/themostimportantquestion                    /about/                                     301
+
+# Mudroom (old project?)
+/mudroom                                     /work/                                      301
+
+# ===========================================
+# CATEGORY/ARCHIVE PAGES - Catch-all to writings
+# ===========================================
+
+/category/*                                  /writings/                                  301
+/tag/*                                       /writings/                                  301
+/page/*                                      /writings/                                  301
+
+# ===========================================
+# EVENTS - Old events system
+# ===========================================
+
+/events/*                                    /speaking/                                  301
+
+# ===========================================
+# CATCH-ALL - Anything else goes to home
+# This should be LAST
+# ===========================================
+
+# Note: Netlify processes redirects in order, so specific rules above take precedence

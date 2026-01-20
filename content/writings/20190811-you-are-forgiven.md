@@ -45,3 +45,7 @@ Now forgive yourself. For all that you have done, real or imagined.
 Step forward knowing you are free.
 
 What will you choose now?
+
+---
+
+*This is a companion to [I Forgive You](/writings/i-forgive-you), written months earlier. Forgiveness flows both ways.*

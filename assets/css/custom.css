@@ -44,7 +44,27 @@ body:has(.homepage) {
   align-items: center;
   justify-content: center;
   position: relative;
-  margin-top: -3rem;
+}
+
+/* Pull homepage up closer to nav - small screens (mobile) */
+@media (max-width: 640px) {
+  .homepage {
+    margin-top: -2rem;
+  }
+}
+
+/* Pull homepage up closer to nav - medium screens */
+@media (min-width: 641px) and (max-width: 1399px) {
+  .homepage {
+    margin-top: -3rem;
+  }
+}
+
+/* Pull homepage up closer to nav - large screens */
+@media (min-width: 1400px) {
+  .homepage {
+    margin-top: -3rem;
+  }
 }
 
 /* Full-bleed background */
@@ -396,9 +416,25 @@ footer {
   box-sizing: border-box;
 }
 
-/* Homepage footer - pull up closer to hero */
-body:has(.homepage) footer {
-  margin-top: -3rem;
+/* Homepage footer - pull up closer to hero - small screens (mobile) */
+@media (max-width: 640px) {
+  body:has(.homepage) footer {
+    margin-top: 1rem;
+  }
+}
+
+/* Homepage footer - pull up closer to hero - medium screens */
+@media (min-width: 641px) and (max-width: 1399px) {
+  body:has(.homepage) footer {
+    margin-top: -2rem;
+  }
+}
+
+/* Homepage footer - pull up closer to hero - large screens */
+@media (min-width: 1400px) {
+  body:has(.homepage) footer {
+    margin-top: -3rem;
+  }
 }
 
 footer a {
