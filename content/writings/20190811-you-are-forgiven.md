@@ -48,4 +48,4 @@ What will you choose now?
 
 ---
 
-*This is a companion to [I Forgive You](/writings/i-forgive-you), written months earlier. Forgiveness flows both ways.*
+*This is a companion to [I Forgive You](/writings/i-forgive-you/), written months earlier. Forgiveness flows both ways.*

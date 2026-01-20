@@ -62,4 +62,4 @@ What is yours?
 
 ---
 
-*This mantra grew from something I'd written six months earlier: [You Are a Creator](/writings/you-are-a-creator).*
+*This mantra grew from something I'd written six months earlier: [You Are a Creator](/writings/you-are-a-creator/).*

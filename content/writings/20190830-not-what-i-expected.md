@@ -74,4 +74,4 @@ I feel more whole than I can remember. I'm allowing myself to dream again. Dream
 
 And that is how I spent the last week of my summer vacation in Pennsylvania. It was one of the most profoundly healing things I've done this year — and I've done a lot of profoundly healing things this year.
 
-Thank you. Big Love. —Chris
+Thank you. Big Love. —Christoph

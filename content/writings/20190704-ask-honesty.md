@@ -40,7 +40,7 @@ Thank you for your honestly, your courage and your care.
 
 Big Love!
 
-—Chris
+—Christoph
 
 ---
 

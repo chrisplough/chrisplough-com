@@ -14,8 +14,8 @@ showPagination: true
 > You get to choose the Sandbox you create in, Who you create with, and What you create.
 > What do you want to create?
 
-—Chris
+—Christoph
 
 ---
 
-*Six months later, on the way to Necker Island, this became a mantra: [Play - Create - Now](/writings/play-create-now).*
+*Six months later, on the way to Necker Island, this became a mantra: [Play - Create - Now](/writings/play-create-now/).*

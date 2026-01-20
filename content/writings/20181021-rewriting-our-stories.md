@@ -57,9 +57,9 @@ Those small shifts in meaning have re-written the entire story. They have given 
 So I ask you this: what story have you let define you? Is it still true, or have you been following it out of habit? Looking at it with your older, loving eyes - how would you re-write your story? If you're not ready to re-write it, what step could you take today to help you become ready? Will you take it?
 
 Infinite Love,
-—Chris
+—Christoph
 
-*Four years later, I would [rewrite another story](/writings/rewriting-an-unconscious-love-story/) - one I didn't even know I was carrying. And the summer before that, I'd return to Pennsylvania to [face what was left unprocessed](/writings/not-what-i-expected).*
+*Four years later, I would [rewrite another story](/writings/rewriting-an-unconscious-love-story/) - one I didn't even know I was carrying. And the summer before that, I'd return to Pennsylvania to [face what was left unprocessed](/writings/not-what-i-expected/).*
 
 ---
 

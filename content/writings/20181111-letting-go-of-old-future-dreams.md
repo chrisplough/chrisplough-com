@@ -46,4 +46,4 @@ So, which Old Future Dreams are you ready to let go? Write them down. Write why 
 
 ---
 
-*Related: [Rewriting Our Stories](/writings/rewriting-our-stories) — on escaping the narratives that have been trapping us.*
+*Related: [Rewriting Our Stories](/writings/rewriting-our-stories/) — on escaping the narratives that have been trapping us.*

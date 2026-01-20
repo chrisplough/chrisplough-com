@@ -25,4 +25,4 @@ Today's challenge: Find a photo from your past that you haven't seen in years. A
 
 ---
 
-*For more artifacts from that young mind, see [Essay: Quotes](/writings/essay-quotes) from 1994 — I was apparently collecting wisdom even then.*
+*For more artifacts from that young mind, see [Essay: Quotes](/writings/essay-quotes/) from 1994 — I was apparently collecting wisdom even then.*

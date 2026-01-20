@@ -14,4 +14,4 @@ showPagination: true
 > We are **not** here to make others uncomfortable.
 > We *are* here to help us all see Truth as clearly as possible.
 > And have fun doing it.
-> —Chris
+> —Christoph

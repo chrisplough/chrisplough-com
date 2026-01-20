@@ -11,7 +11,7 @@ showPagination: true
 The lesson I learned today from Shelby:
 
 > When you're lost and blinded by the struggle, true friends lend their sight - their clearer view of the world - until you find your way.
-> —Chris Plough
+> —Christoph Plough
 
 Her words are more eloquent:
 

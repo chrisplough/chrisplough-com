@@ -18,7 +18,7 @@ To those who can't see the light yet. Trust my eyes and heart, having been exact
 
 You are not alone. You never were. You are beautiful and loved exactly as you are.
 
-—Chris
+—Christoph
 *Infinite Love Expressed*
 
 ---
