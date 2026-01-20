@@ -1,0 +1,54 @@
+{{/* Schema.org JSON-LD structured data */}}
+
+{{/* Person schema - included on all pages to establish identity */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Christoph Plough",
+  "url": "https://chrisplough.com",
+  "sameAs": [
+    "https://chrisplough.com",
+    "https://www.linkedin.com/in/chrisplough",
+    "https://www.crunchbase.com/person/chris-plough",
+    "https://worthchoosing.org",
+    "https://standpointlabs.com",
+    "https://oznog.com",
+    "https://adventurex.com",
+    "https://www.youtube.com/@ChrisPlough",
+    "https://github.com/chrisplough",
+    "https://chrisplough.substack.com",
+    "https://x.com/chrisplough",
+    "https://www.instagram.com/chrisplough",
+    "https://www.facebook.com/chrisplough"
+  ]
+}
+</script>
+
+{{/* Article schema - only on blog posts (writings) */}}
+{{ if and (eq .Section "writings") .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ .Title }}",
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  {{ if .Lastmod }}"dateModified": "{{ .Lastmod.Format "2006-01-02" }}",{{ end }}
+  "author": {
+    "@type": "Person",
+    "name": "Christoph Plough",
+    "url": "https://chrisplough.com"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "Christoph Plough",
+    "url": "https://chrisplough.com"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }{{ if .Description }},
+  "description": "{{ .Description }}"{{ end }}
+}
+</script>
+{{ end }}
