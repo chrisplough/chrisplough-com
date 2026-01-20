@@ -878,13 +878,13 @@ main section article .text-neutral-500 {
 }
 
 .email-signup input[type="email"] {
-  padding: 0.25rem 0.5rem;
+  padding: 0.35rem 0.65rem;
   background-color: rgba(255, 255, 255, 0.08);
   border: 1px solid rgba(255, 255, 255, 0.25);
   color: var(--cp-text-primary);
   font-family: inherit;
-  font-size: 0.7rem;
-  width: 140px;
+  font-size: 0.775rem;
+  width: 170px;
   max-width: 100%;
   transition: all 0.25s ease;
 }
@@ -900,12 +900,12 @@ main section article .text-neutral-500 {
 }
 
 .email-signup button {
-  padding: 0.25rem 0.6rem;
+  padding: 0.325rem 0.825rem;
   border: 1px solid rgba(255, 255, 255, 0.25);
   background-color: transparent;
   color: var(--cp-text-muted);
   font-family: inherit;
-  font-size: 0.55rem;
+  font-size: 0.625rem;
   font-weight: 600;
   letter-spacing: 0.1em;
   text-transform: uppercase;
