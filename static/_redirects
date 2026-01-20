@@ -15,10 +15,10 @@
 /eight-years-ago-i-stepped-away-from-the-life-i-knew/  /writings/eight-years-ago/        301
 /you-are-a-creator/                          /writings/you-are-a-creator/                301
 /fuller-or-emptier/                          /writings/fuller-or-emptier/                301
-/i-am-not-here/                              /writings/you-are-not-alone/                301
-/i-am-not-here/*                             /writings/you-are-not-alone/                301
-/when-was-the-seed-planted/                  /writings/rewriting-our-stories/            301
-/when-was-the-seed-planted/*                 /writings/rewriting-our-stories/            301
+/i-am-not-here/                              /writings/i-am-not-here/                    301
+/i-am-not-here/*                             /writings/i-am-not-here/                    301
+/when-was-the-seed-planted/                  /writings/when-was-the-seed-planted/        301
+/when-was-the-seed-planted/*                 /writings/when-was-the-seed-planted/        301
 /there-is-no-done/                           /writings/there-is-no-done/                 301
 /there-is-no-done/*                          /writings/there-is-no-done/                 301
 /lend-me-your-sight/                         /writings/lend-me-your-sight/               301
@@ -146,11 +146,11 @@
 /thank-you-for-your-care/                    /writings/                                  301
 /today-i-began-writing/                      /writings/                                  301
 /today-i-began-writing/*                     /writings/                                  301
-/the-body-mind-and-emotions-are-interlinked/ /writings/                                  301
+/the-body-mind-and-emotions-are-interlinked/ /writings/the-body-mind-and-emotions-are-interlinked/ 301
 /gratitude-and-hope-to-haiti/                /writings/                                  301
 /for-you-turn-over/                          /writings/                                  301
-/simple-partnerships/                        /writings/                                  301
-/simple-partnerships/*                       /writings/                                  301
+/simple-partnerships/                        /writings/simple-partnerships/              301
+/simple-partnerships/*                       /writings/simple-partnerships/              301
 /a-firm-believer-in-the-people/              /writings/                                  301
 /cps-40th-ploughshare-birthday/              /writings/                                  301
 /tbt-celebration-lighting-design/            /writings/                                  301
@@ -160,8 +160,8 @@
 /i-love-you/                                 /writings/you-are-loved/                    301
 /i-love-you/*                                /writings/you-are-loved/                    301
 /urinal-inspiration/                         /writings/                                  301
-/storytelling-is/                            /writings/                                  301
-/ask-honesty/                                /writings/                                  301
+/storytelling-is/                            /writings/storytelling-is/                  301
+/ask-honesty/                                /writings/ask-honesty/                      301
 /power-up-challenge-20181119/                /writings/                                  301
 /power-up-release-allow/                     /writings/                                  301
 /power-up-release-allow/*                    /writings/                                  301
@@ -179,13 +179,14 @@
 /ocean-in-carmel-california/                 /writings/                                  301
 /ocean-in-carmel-california/*                /writings/                                  301
 
-# AdventureX related -> work page
-/why-do-matt-and-i-take-people-on-adventures/   /work/                                  301
-/why-do-matt-and-i-take-people-on-adventures/*  /work/                                  301
+# AdventureX related
+/why-do-matt-and-i-take-people-on-adventures/   /writings/why-do-matt-and-i-take-people-on-adventures/ 301
+/why-do-matt-and-i-take-people-on-adventures/*  /writings/why-do-matt-and-i-take-people-on-adventures/ 301
 /american-dream-u/                           /speaking/                                  301
 
-# Most important question -> about or writings
-/themostimportantquestion                    /about/                                     301
+# Most important question
+/themostimportantquestion                    /writings/the-most-important-question/      301
+/the-most-important-question/                /writings/the-most-important-question/      301
 
 # Mudroom (old project?)
 /mudroom                                     /work/                                      301
