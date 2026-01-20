@@ -73,7 +73,7 @@ copyright = "© 1977–2026 Christoph Plough"
     showBreadcrumbs = false
     groupByYear = true
 
-# Top Nav: About | Work | Writings | Now
+# Top Nav: About | Work | Now | Contact
 [menu]
   [[menu.main]]
     name = "About"
@@ -84,12 +84,12 @@ copyright = "© 1977–2026 Christoph Plough"
     url = "/work/"
     weight = 20
   [[menu.main]]
-    name = "Writings"
-    url = "/writings/"
-    weight = 30
-  [[menu.main]]
     name = "Now"
     url = "/now/"
+    weight = 30
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
     weight = 40
 
 # Footer: Ecosystem links
