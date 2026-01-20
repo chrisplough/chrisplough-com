@@ -44,6 +44,7 @@ body:has(.homepage) {
   align-items: center;
   justify-content: center;
   position: relative;
+  margin-top: -3rem;
 }
 
 /* Full-bleed background */
@@ -393,6 +394,11 @@ footer {
   border-radius: 8px 8px 0 0;
   padding: 1rem 1.5rem 1.5rem 1.5rem !important;
   box-sizing: border-box;
+}
+
+/* Homepage footer - pull up closer to hero */
+body:has(.homepage) footer {
+  margin-top: -3rem;
 }
 
 footer a {
