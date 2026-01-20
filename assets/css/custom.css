@@ -958,8 +958,12 @@ footer .copyright a:hover {
 
 /* ===== Scroll to Top Arrow ===== */
 /* Fix contrast for back-to-top button - Congo uses #to-top container */
+/* Constrain to content width so arrow aligns with right edge of content */
 #to-top {
   z-index: 200 !important;
+  /* Position at right edge of content area (42rem = 672px) */
+  right: calc(50% - 21rem) !important;
+  left: auto !important;
 }
 
 #to-top a,
@@ -1024,6 +1028,11 @@ main > ul:last-child {
 /* ===== Single Post Pagination Nav ===== */
 /* The article footer contains pagination links */
 article > footer.max-w-prose {
+  /* Override max-w-prose to match our content width */
+  max-width: 42rem !important;
+  /* Remove side padding so arrows sit at edge */
+  padding-left: 0 !important;
+  padding-right: 0 !important;
   /* Space from article content HR to top of nav section: 2rem */
   margin-top: 2rem !important;
   padding-top: 0 !important;
@@ -1031,7 +1040,7 @@ article > footer.max-w-prose {
   margin-bottom: 2rem !important;
 }
 
-/* Space from dark HR to nav text ("The Space Between"): 2rem */
+/* Space from dark HR to nav text */
 article > footer.max-w-prose > div.pt-8 {
   padding-top: 2rem !important;
 }
@@ -1039,9 +1048,36 @@ article > footer.max-w-prose > div.pt-8 {
 /* The inner flex container with nav links */
 article > footer.max-w-prose div.flex.justify-between {
   padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* Remove extra bottom spacing */
+article > footer.max-w-prose > div:last-child {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* Target the nav link containers directly */
+article > footer.max-w-prose nav,
+article > footer.max-w-prose a.flex {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
 }
 
 /* ===== List Page Pagination ===== */
+/* Constrain pagination to match content width */
+main > ul.flex.flex-row,
+main ul.mt-8.flex.flex-row {
+  max-width: 42rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  box-sizing: border-box;
+}
+
 /* Fix pagination colors to match our dark theme */
 main ul.flex.flex-row li a,
 main ul.flex.flex-row li span {
