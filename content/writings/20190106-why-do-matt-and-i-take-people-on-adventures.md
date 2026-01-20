@@ -31,3 +31,7 @@ My eyes and ears are open for those who are ready for, and who need these experi
 My ask of you: if your gut tells you of someone who may need this, let them know about it. If they feel the same and reach out, we'll take if from there.
 
 The new adventures are listed at [AdventureX.com](https://AdventureX.com/the-adventures/). Details are intentionally vague, as it's part of the experience.
+
+---
+
+*Related: A [lesson from Bhutan about the glowworm](/writings/lesson-from-bhutan-the-glowworm/) and a [revelation in the Gobi Desert](/writings/revelation-in-the-gobi-desert/) — stories from these adventures.*

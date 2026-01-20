@@ -41,3 +41,7 @@ Thank you for your honestly, your courage and your care.
 Big Love!
 
 —Chris
+
+---
+
+*Related: [I Forgive You. I Apologize to You.](/writings/i-forgive-you/) and [You Are Forgiven](/writings/you-are-forgiven/) — the other side of this coin.*

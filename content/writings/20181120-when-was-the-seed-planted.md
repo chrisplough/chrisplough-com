@@ -21,3 +21,7 @@ Some seeds grow passions. Some seeds grow worries. Some open up a new pathway in
 What is a passion you have today? When and how was that seed planted? Who are you grateful to for that?
 
 What is a worry that you have today? When was that seed planted? Who can you forgive to release it?
+
+---
+
+*Sometimes we carry stories from seeds planted long ago. We always have the power to [rewrite those stories](/writings/rewriting-our-stories/).*

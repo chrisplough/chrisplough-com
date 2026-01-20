@@ -52,4 +52,4 @@ What are you choosing?
 
 ---
 
-*The next day, I wrote about [releasing the fear of pain](/writings/release-the-fear-of-pain) — the thing that multiplies our suffering more than the pain itself.*
+*The next day, I wrote about [releasing the fear of pain](/writings/release-the-fear-of-pain/) — the thing that multiplies our suffering more than the pain itself. A week later, I explored how [the body, mind, and emotions are interlinked](/writings/the-body-mind-and-emotions-are-interlinked/) — and how symptoms in one often have root causes in another.*

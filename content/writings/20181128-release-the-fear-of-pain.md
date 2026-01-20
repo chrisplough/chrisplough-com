@@ -40,4 +40,4 @@ I release the fear of pain.
 
 ---
 
-*This is a companion to [Pain ≠ Suffering](/writings/pain-does-not-equal-suffering), which I wrote the day before. Growth rarely happens in straight lines — it comes in [oscillating waves](/writings/how-growth-happens), each pass revealing something new.*
+*This is a companion to [Pain ≠ Suffering](/writings/pain-does-not-equal-suffering/), which I wrote the day before. A week later, I explored how [the body, mind, and emotions are interlinked](/writings/the-body-mind-and-emotions-are-interlinked/). Growth rarely happens in straight lines — it comes in [oscillating waves](/writings/how-growth-happens/), each pass revealing something new.*

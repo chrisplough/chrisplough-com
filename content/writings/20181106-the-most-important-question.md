@@ -21,3 +21,7 @@ This morning, I'm headed to my Gpa G's grave to talk with and honor a great man.
 My question to you: what will you learn when you ask someone you care about this simple question and truly listen? "What is the story of your life?"
 
 *P.S. - This photo is of the Missouri River this morning. They lived along it for many years and we all have incredible memories of summers spent there.*
+
+---
+
+*Related: We all have stories we carry. Sometimes we need to [rewrite them](/writings/rewriting-our-stories/).*

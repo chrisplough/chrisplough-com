@@ -22,7 +22,7 @@ So in my mid-twenties, I became aware that these systems were interconnected. By
 
 After a while, this knowledge slipped into my unconscious and it wasn't something I was aware of day-to-day. Until this recent episode of extreme pain. When I read Dr. Sarno's book, *Healing Back Pain*, I instantly recognized and appreciated the mind/body connection that he described. Since I had already seen the effects for myself, I already believed in it. He was able to put a finer point on it and help me understand exactly what was happening physiologically, which reduced my fear.
 
-There are many lessons that I've learned through this bout with pain, many of which I will share, though not in this message.
+There are many lessons that I've learned through this bout with pain, many of which I will share, though not in this message. I've written about [how pain does not equal suffering](/writings/pain-does-not-equal-suffering/) and [releasing the fear of pain](/writings/release-the-fear-of-pain/) — both born from this experience.
 
 Right now, I want to help you plant a brain seed, which will flourish when you need it. That brain seed is that the body, mind, and emotions are deeply linked. When something happens to one, it has an impact on the other two. Also, sometimes we feel a symptom in one and the root cause is within another.
 
