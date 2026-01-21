@@ -16,6 +16,8 @@ We only have four stories about AI: we control it, it controls us, it saves us, 
 
 None of them end well.
 
+The answer is a fifth story: genuine interdependence. For the full strategy of how we're building it (bottom up through stories, through the middle with infrastructure, top down through leadership, and the long game through investment) see [How do you change a civilization?](https://oznog.com/#how-do-you-change-a-civilization) on Oznog.
+
 ---
 
 ## Hard-Wired Diverse
