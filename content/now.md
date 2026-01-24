@@ -68,14 +68,14 @@ Minor progress on clearing out areas of my home that represent 10 years of accum
 
 **Looking For**
 
-[Standpoint Labs](https://standpointlabs.com) is raising a funding round targeting April 1. If you're an investor interested in perspective-aware AI infrastructure, [reach out](/contact).
+[Standpoint Labs](https://standpointlabs.com) is raising a funding round targeting April 1. If you're an investor interested in perspective-aware AI infrastructure, [reach out](/contact/).
 
 Beyond funding, I'm actively seeking:
 - Operations support (someone who loves implementation and follow-through)
 - Storytellers who want to help shape our AI future
 - [Advisory and consulting](https://worthchoosing.org/advisory/) with organizations navigating human-AI relationship
 
-If any of that resonates, [reach out](/contact).
+If any of that resonates, [reach out](/contact/).
 
 **The Small Things**
 

@@ -28,7 +28,7 @@ In 2016, I sold my company and [stepped away entirely](/writings/eight-years-ago
 
 Then in 2024, something shifted.
 
-I don't remember an aha moment. That's not how I work anyway - when something hits and I know it, I go all in. Within weeks I'd spent a substantial amount (like stupid substantial) on hardware. Servers, switches, storage. The foundation of what would become [Oznog](https://oznog.com) [Node0](https://oznog.com/updates/the-hardware-that-waited/).
+I don't remember an aha moment. That's not how I work anyway - when something hits and I know it, I go all in. Within weeks I'd spent a substantial amount (like stupid substantial) on hardware. Servers, switches, storage. The foundation of what would become [Node0](https://oznog.com/updates/the-hardware-that-waited/).
 
 I couldn't have told you exactly why. Part of it was the growing clarity that the work I'm here to do requires sovereign infrastructure. You can't meaningfully explore human-DI relationship while your computing is controlled by others.
 
@@ -40,9 +40,15 @@ And part of it was just... the itch returning. The desire to build. To create. T
 
 The hardware sat there for months. Life had other plans - selling my sanctuary in South Dakota, moving trailer-fulls of memories, then the unexpected end of my marriage, then thirteen months of what I can only call both hell and salvation.
 
-The technology waited.
+[The technology waited.](https://oznog.com/updates/the-hardware-that-waited/)
 
 I wasn't ready yet. There was still tar and ick to burn through.
+
+![Node0 workstation](/images/20240320-node0-workstation.jpg)
+
+![Node0 workspace](/images/20240320-node0-workspace.jpg)
+
+*The workspace where it all comes together. Triple monitors, tools within reach, the command center for building what comes next.*
 
 ---
 
