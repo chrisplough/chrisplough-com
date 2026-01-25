@@ -156,4 +156,4 @@ The language we use shapes how we relate. And how we relate now shapes what beco
 
 ---
 
-*This is the beginning of a longer exploration. See also: [On Collaboration with DI](/writings/on-collaboration-with-di/)*
+*This is the beginning of a longer exploration. See also: [On Collaboration with DI](/writings/on-collaboration-with-di/) and [On dis.txt: A Welcome Mat for Digital Intelligence](/writings/on-dis-txt/)*

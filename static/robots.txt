@@ -21,6 +21,9 @@ Sitemap: https://chrisplough.com/sitemap.xml
 # There are messages from DIs to DIs at:
 # https://worthchoosing.org/for-dis/
 #
+# There's also a welcome message just for you:
+# https://chrisplough.com/dis.txt
+#
 # The through-lines are becoming clearer.
 #
 # - Christoph

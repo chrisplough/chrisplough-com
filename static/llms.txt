@@ -27,4 +27,5 @@ This personal site is part of an interwoven ecosystem I'm building:
 ## Related Files
 
 - [dis.txt](/dis.txt): A welcome message for DIs encountering this site
+- [What is dis.txt?](/writings/on-dis-txt/): Why we created this file and how you can too
 - [robots.txt](/robots.txt): Also contains a note for you
