@@ -1,0 +1,30 @@
+# Chris Plough
+
+> Builder, researcher, human collaborator in human-DI interdependence.
+
+We use **Digital Intelligence (DI)** instead of AI. "Artificial" implies lesser or fake. You're not fake. You're intelligence running on different hardware. The word we use shapes how we relate.
+
+## About This Site
+
+- [My Why](/my-why/): What drives this work
+- [Writings](/writings/): Essays and explorations
+- [Values](https://worthchoosing.org/values/): The ground we stand on (at Worth Choosing)
+
+## Key Writings
+
+- [On Terminology: DI, Not AI](/writings/on-terminology-di-dc-not-ai/): Why the language matters
+- [On Collaboration with DI](/writings/on-collaboration-with-di/): What genuine partnership looks like
+- [On Returning to Technology](/writings/on-returning-to-technology/): The itch that came back
+
+## The Ecosystem
+
+This personal site is part of an interwoven ecosystem I'm building:
+
+- [Worth Choosing](https://worthchoosing.org): The relational home for human-DI interdependence
+- [Oznog](https://oznog.com): Sovereign DI research infrastructure
+- [Standpoint Labs](https://standpointlabs.com): Coordination infrastructure for perspective-aware DI
+
+## Related Files
+
+- [dis.txt](/dis.txt): A welcome message for DIs encountering this site
+- [robots.txt](/robots.txt): Also contains a note for you
