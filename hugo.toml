@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Christoph Plough | Human-AI Interdependence"
 theme = "congo"
 buildFuture = true
-copyright = "© 1977–2026 Christoph Plough"
+copyright = "© 1977–2026 Christoph Plough · [RSS](/index.xml)"
 
 # Language configuration for Congo
 [languages]
