@@ -18,10 +18,10 @@ copyright = "© 1977–2026 Christoph Plough · [RSS](/index.xml)"
         bio = "I help humanity become worth choosing. Architecting Human-AI interdependence. And other adventures..."
         image = "images/headshot-circle.png"
         links = [
-          { twitter = "https://twitter.com/christophplough" },
+          { twitter = "https://twitter.com/chrisplough" },
           { linkedin = "https://linkedin.com/in/chrisplough" },
           { github = "https://github.com/chrisplough" },
-          { email = "mailto:hello@chrisplough.com" }
+          { amazon = "https://www.amazon.com/author/chrisplough" }
         ]
 
 [params]

@@ -639,6 +639,39 @@ hr {
   border-color: var(--cp-border-hover);
 }
 
+/* ===== Social Links (Contact Page) ===== */
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.social-links a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--cp-text-muted);
+  transition: all 0.25s ease;
+}
+
+.social-links a:hover {
+  color: var(--cp-text-primary);
+  transform: scale(1.15);
+}
+
+.social-links a svg,
+.social-links a .icon {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+/* Remove external link arrows from social icons */
+.social-links a::after {
+  content: none !important;
+}
+
 /* ===== Audio Player ===== */
 .article-audio {
   background-color: var(--cp-bg-secondary);
