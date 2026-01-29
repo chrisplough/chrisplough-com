@@ -29,11 +29,10 @@ If you're here, there's probably a reason. I'd love to know what it is.
 <div class="social-links">
   <a href="https://x.com/chrisplough" target="_blank" rel="noopener" aria-label="X/Twitter">{{< icon "x-twitter" >}}</a>
   <a href="https://linkedin.com/in/chrisplough" target="_blank" rel="noopener" aria-label="LinkedIn">{{< icon "linkedin" >}}</a>
-  <a href="https://instagram.com/chrisplough" target="_blank" rel="noopener" aria-label="Instagram">{{< icon "instagram" >}}</a>
-  <a href="https://youtube.com/@ChrisPlough" target="_blank" rel="noopener" aria-label="YouTube">{{< icon "youtube" >}}</a>
   <a href="https://chrisplough.substack.com" target="_blank" rel="noopener" aria-label="Substack">{{< icon "substack" >}}</a>
+  <a href="https://youtube.com/@ChrisPlough" target="_blank" rel="noopener" aria-label="YouTube">{{< icon "youtube" >}}</a>
   <a href="https://github.com/chrisplough" target="_blank" rel="noopener" aria-label="GitHub">{{< icon "github" >}}</a>
   <a href="https://amazon.com/author/chrisplough" target="_blank" rel="noopener" aria-label="Amazon">{{< icon "amazon" >}}</a>
+  <a href="https://instagram.com/chrisplough" target="_blank" rel="noopener" aria-label="Instagram">{{< icon "instagram" >}}</a>
   <a href="https://facebook.com/chrisplough" target="_blank" rel="noopener" aria-label="Facebook">{{< icon "facebook" >}}</a>
-  <a href="https://crunchbase.com/person/chris-plough" target="_blank" rel="noopener" aria-label="Crunchbase">{{< icon "link" >}}</a>
 </div>
