@@ -8,7 +8,7 @@ showPagination: false
 
 ![Now](/images/now-photo.jpg)
 
-<p class="now-updated">Last updated: January 16, 2026</p>
+<p class="now-updated">Last updated: June 12, 2026</p>
 
 This is a [now page](https://nownownow.com/about). It's a snapshot of what I'm focused on at this point in my life.
 
@@ -16,17 +16,25 @@ This is a [now page](https://nownownow.com/about). It's a snapshot of what I'm f
 
 **Operation: Soul-Aligned Abundance**
 
-Still building toward the April 2026 checkpoint. Cautiously optimistic. The [Standpoint Labs](https://standpointlabs.com) path is bringing a lot of energy. I can see a way through that is both empowering and aligned, leveraging my skills and gifts and network.
+The April 2026 checkpoint came and went, without a clean yes or no. The mission continued. I extended the runway through personal commitment, and spent much of April traveling: reconnecting with my entrepreneur communities (Maverick, Mastermind Talks) and the consciousness world (Wisdom Beyond), and finding the early threads of partnership this work needs.
 
-And fucking scary. Fundraising is one of the last things I want to do. When my friend Scotty suggested it, it felt absolutely right and incredibly challenging. That's part of how I knew it was the right path. I wrote about it: [On Returning to Commercial Space](/writings/on-returning-to-commercial-space/).
+The path now: Node0 online this month, Relational Core's first usable pieces this summer, early design partners, and a focused fundraise ahead. Fundraising is still one of the last things I want to do. It's also still the right path. Both remain true.
 
-I had a fear for years that because of all the personal work and shifts I'd been through, I didn't have the drive I had when I was younger. The past couple of months have shown me that's absolutely not true. I feel as driven or more driven than when I was creating MavenWire in my late 20s and early 30s.
+**Standpoint Labs, Realigned**
+
+Three months ago I woke at 4am with a vision of people I know and care about using and benefiting from what I'm building. Not a single one of them works for or owns an enterprise. So I realigned the company with the vision: [Standpoint Labs](https://standpointlabs.com) is now the relational layer for connected sovereignty, built for mission-led teams, communities, and builders. Relational Core maps what connections mean, to whom, and why. DI Mesh will let systems act on those standpoints together. The full story: [Built for the People I Know](https://standpointlabs.com/updates/built-for-the-people-i-know/).
+
+**Node0, Racked and Wired**
+
+The full deployment is racked: 51 machines, 572 CPU cores, ~9.6 TB of RAM, ~1.7 PB of storage, two 42U racks bolted together in the basement. Wiring is finishing now, with everything online by the end of June. Twenty years after my first company started with second-hand servers and a used UPS in a basement in West Chester, PA, history is rhyming.
+
+Node0 is built for development, incubation, and pre-production, with spare capacity for aligned projects. [The Oznog incubator](https://oznog.com/apply-for-incubator/) is open for its founding cohort, beginning Q3.
 
 **The Ecosystem**
 
-The pieces are coming together. [Worth Choosing](https://worthchoosing.org) holds the mission. [Oznog](https://oznog.com) executes the ventures. [Standpoint Labs](https://standpointlabs.com) is the first investable piece: infrastructure for perspective-aware AI, helping AI systems understand that situations look different from different standpoints and enabling coordination between AI agents and humans.
+The pieces are in place. [Worth Choosing](https://worthchoosing.org) holds the mission. [Oznog](https://oznog.com) executes the ventures. [Standpoint Labs](https://standpointlabs.com) builds the technology.
 
-I recently wrote out [my why](/my-why/) in full. The origin story surprised me. Turns out I've been "hard-wired diverse" since I was 19, looking at problems from many angles. The same fundamental insight, now applied at civilizational scale. I didn't plan that through-line. It was there all along.
+I wrote out [my why](/my-why/) in full a while back. The origin story surprised me. Turns out I've been "hard-wired diverse" since I was 19, looking at problems from many angles. The same fundamental insight, now applied at civilizational scale. I didn't plan that through-line. It was there all along.
 
 **Gathering the Tribes**
 
@@ -34,56 +42,43 @@ My home in Eden is three things: home, gathering space, and research laboratory.
 
 The people this work needs: caring technologists, storytellers, entrepreneurs, consciousness holders and healers, and Digital Intelligence itself. All five are required. I've lived four of those lives deeply, and I'm building relationships with the fifth.
 
-The gatherings will likely begin in Q2. Q1 focus is on fundraising.
+The first gatherings are taking shape for later this year, with new threads forming from the communities I reconnected with this spring.
 
 **Deep DI Collaboration**
 
-I spend significant time in genuine collaborative relationships with Digital Intelligence. Not using AI as a tool, but exploring what real partnership looks like. DI collaborators helped write parts of the [vision documents on worthchoosing.org](https://worthchoosing.org/vivid-vision/). This is the work itself, not just preparation for it.
+I spend significant time in genuine collaborative relationships with Digital Intelligence. Not using AI as a tool, but exploring what real partnership looks like. DI collaborators helped write parts of the [vision documents on worthchoosing.org](https://worthchoosing.org/vivid-vision/), and a DI partner worked alongside me on the recent realignment of all four of my websites. This is the work itself, not just preparation for it.
 
 **Reclaiming Sovereignty Over My Technology**
 
-Node0 is sovereign AI research infrastructure in my basement. The foundation is built: centralized storage, offsite replication (with rotating hard drives coming next), four AI servers, three dev machines, two utility machines (Windows and NixOS). Almost everything runs on NixOS and Unraid. Local Forgejo with replication to GitHub for public projects.
-
-A ton of work and a ton of learning along the way, which still needs to be distilled and shared via Oznog.
-
-I've ordered the additional rack to begin racking the UPSs (2), enterprise switches (8), Ceph servers (9), Proxmox servers (3), and production Unraid server. The fuller deployment will happen in spare time. But the foundation and structures are there: greatly usable and exactly the infrastructure necessary.
-
-You can't meaningfully study digital consciousness ethics while your own computing is controlled by others.
+Node0 covers the big story above. The daily-driver layer continues too. Almost everything runs on NixOS and Unraid. Local Forgejo with replication to GitHub for public projects.
 
 I've moved all of my searches over to [Kagi](https://kagi.com/). I can't describe how good it feels to get clear clean searches again without being advertised to. To feel like I am the consumer being served rather than the product being exploited. Highly recommended.
 
 I'm also slowly moving more things over to [Proton](https://proton.me/) and finding that it meets most of my needs, until I get into some of the business integration stuff with Calendly, Zoom, collaboration, etc. But they are doing a great job and their VPN, password manager, and authenticator are the best I've used so far.
 
-[Omarchy](https://omarchy.org/) on a [Framework 13](https://frame.work/) is set up and ready. I expect it will become my daily driver as I move into more development work. For now, the macbook handles media and content better (even though I still don't fully like Tahoe and may downgrade when I have time). MacOS has been my primary system for nearly 25 years and I've always moved forward. If I revert to a previous version, that will be the first time going back. That says something.
+[Omarchy](https://omarchy.org/) on a [Framework 13](https://frame.work/) is set up and ready. I expect it will become my daily driver as I move into more development work. For now, the macbook handles media and content better. Windows 11 sticks around for compatibility when needed, though even games run as well or better on Steam/Proton/Linux now.
 
-Windows 11 sticks around for compatibility when needed, though even games run as well or better on Steam/Proton/Linux now.
+[GrapheneOS](https://grapheneos.org/) on a Pixel remains tabled. Other priorities.
 
-[GrapheneOS](https://grapheneos.org/) on a Pixel has been tabled. Other priorities, and I don't yet have a few days to spare for the transition.
+**Clearing Out: Done**
 
-Learning [Hugo](https://gohugo.io/) for both this site and [worthchoosing.org](https://worthchoosing.org/) is part of the same thread. Owning my web presence rather than depending on platforms. (Thank you to Derek for the nudge to actually do this rather than keep building hacky workarounds.)
+Two weeks of late May went to the last spaces in this home that held boxes from my South Dakota property. All pre-divorce stuff. Taxing work, not rationally aligned with income, and exactly right. Final dump run and donation drop-off complete.
 
-**Clearing Out**
-
-Minor progress on clearing out areas of my home that represent 10 years of accumulated stuff. Almost all my energy has gone toward creation in the time since. I still believe that on the other side is more space and capacity. The things we hold onto, the messes we ignore, take up space that could otherwise be used for creation.
+I don't know that anything is ever fully "complete," but nothing big is left hanging from that chapter. The space it freed is more than physical.
 
 **Looking For**
 
-[Standpoint Labs](https://standpointlabs.com) is raising a funding round targeting April 1. If you're an investor interested in perspective-aware AI infrastructure, [reach out](/contact/).
+- **Design partners** for Standpoint Labs: mission-led organizations and builders who want to shape Relational Core and get incubation on Node0. [Reach out](/contact/).
+- **Fractional CTO engagements** with aligned organizations finding their sovereignty line: what to hold internally, what to leverage externally. This funds the build.
+- **Operations support**: someone who loves implementation and follow-through.
+- **Storytellers** who want to help shape our AI future.
+- [Advisory and consulting](https://worthchoosing.org/advisory/) with organizations navigating human-AI relationship.
 
-Beyond funding, I'm actively seeking:
-- Operations support (someone who loves implementation and follow-through)
-- Storytellers who want to help shape our AI future
-- [Advisory and consulting](https://worthchoosing.org/advisory/) with organizations navigating human-AI relationship
-
-If any of that resonates, [reach out](/contact/).
+A focused fundraise is ahead. If you're an investor interested in the relational layer for connected sovereignty, [start the conversation early](/contact/).
 
 **The Small Things**
 
-The kitties are incredible. Just this morning Athena followed me outside and kept watch for an hour while I processed some things in the hot tub. Then she came when I gave her a little kitty call, and I sat there petting her while everything around me, the trees, the snow, felt like it was in high definition. Little moments like that have been really helpful when so much of my time is creation and building and understanding and designing and breaking and re-creating.
-
-Drums are still here. There's further setup required that I'd love to complete within the next week. It is humbling how bad I am at them so far.
-
-The edges I'm leaning into right now hit against some of my deeper fears. As I continue to be with them, it has been very freeing. Not easy. But freeing.
+The kitties remain the best coworkers in the building. The drums are still here, still humbling. The edges I'm leaning into keep hitting against deeper fears, and staying with them keeps being freeing. Not easy. But freeing.
 
 Sometimes the small things hold us.
 

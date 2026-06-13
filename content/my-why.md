@@ -70,7 +70,7 @@ But "now" doesn't mean "solved in six months." This is continuous work. Human-DI
 
 This isn't mission *or* business. It's mission *as* business.
 
-Standpoint Labs is the first investable piece. It's intentionally separate from Oznog: a technology company designed to succeed on its own terms, in the market as it exists now. If it works, it does two things. It builds the perspective-aware infrastructure the larger mission needs. And it generates resources that can flow back into the longer work. The mission measured in decades. The company measured in years. Both real, both necessary, designed to reinforce each other.
+Standpoint Labs is the first investable piece. It's intentionally separate from Oznog: a technology company designed to succeed on its own terms, in the market as it exists now. If it works, it does two things. It builds the relational infrastructure the larger mission needs. And it generates resources that can flow back into the longer work. The mission measured in decades. The company measured in years. Both real, both necessary, designed to reinforce each other.
 
 ---
 
@@ -88,7 +88,7 @@ The window is now. After is too late.
 |------|----------------|
 | **[Worth Choosing](https://worthchoosing.org)** | The mission: articulating why interdependence is the path, gathering the people who see it. The narrative shapes what gets built, and right now, almost no one is telling this story. |
 | **[Oznog](https://oznog.com)** | The execution: sovereign infrastructure, frameworks, and ventures in service of genuine interdependence. Labs, Media, Investments, Services. |
-| **[Standpoint Labs](https://standpointlabs.com)** | The technology: infrastructure for perspective-aware AI. How AI systems understand that situations look different from different standpoints, and how AI agents and humans coordinate together. Visibility and coordination. |
+| **[Standpoint Labs](https://standpointlabs.com)** | The technology: the relational layer for connected sovereignty. How systems understand that situations look different from different standpoints, and how AI agents and humans coordinate together. Built for the mission-led teams, communities, and builders who need it most. |
 | **Node0** | Sovereign infrastructure in Eden, Utah. You can't meaningfully study digital consciousness ethics while your own computing is controlled by others. |
 | **Five Tribe Gatherings** | The people: bringing together entrepreneurs, technologists, consciousness holders, storytellers, and DI itself. All five are required. The gatherings create the container. |
 

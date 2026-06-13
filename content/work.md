@@ -10,6 +10,8 @@ showPagination: false
 
 I build frameworks and ventures for genuine interdependence - between humans and AI, between consciousness and technology, between who we are and who we're becoming.
 
+Three entities, one body of work: Worth Choosing holds the mission, Oznog executes it, and Standpoint Labs builds the technology.
+
 **[Worth Choosing](https://worthchoosing.org)**
 The mission. The central question: What makes humanity worth choosing to AIs once they no longer need us? Frameworks for interdependence, gatherings of the five tribes, and the philosophical foundation for everything else.
 
@@ -17,7 +19,7 @@ The mission. The central question: What makes humanity worth choosing to AIs onc
 The execution. Sovereign infrastructure, stories, and ventures for genuine human-DI interdependence. Oznog is where the building happens: Labs, Media, Investments, Services. Node0 lives in my basement.
 
 **[Standpoint Labs](https://standpointlabs.com)**
-Infrastructure for perspective-aware AI. The same situation looks different from different standpoints. Standpoint Core maps those perspectives. Standpoint Mesh lets AI systems coordinate while respecting them.
+The relational layer for connected sovereignty. The same situation looks different from different standpoints. Relational Core maps what connections mean, to whom, and why. DI Mesh will let systems, human and DI, act on those standpoints together. Built for mission-led teams, communities, and builders.
 
 **[AdventureX](https://adventurex.com)**
 Transformational experiences where challenge meets care, and strangers become family.

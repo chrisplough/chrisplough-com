@@ -1,5 +1,5 @@
 baseURL = "https://chrisplough.com/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Christoph Plough | Human-AI Interdependence"
 theme = "congo"
 buildFuture = true
@@ -8,8 +8,8 @@ copyright = "© 1977–2026 Christoph Plough · [RSS](/index.xml)"
 # Language configuration for Congo
 [languages]
   [languages.en]
-    languageCode = "en-us"
-    languageName = "English"
+    locale = "en-us"
+    label = "English"
     weight = 1
     [languages.en.params]
       [languages.en.params.author]
@@ -83,6 +83,10 @@ copyright = "© 1977–2026 Christoph Plough · [RSS](/index.xml)"
     name = "Work"
     url = "/work/"
     weight = 20
+  [[menu.main]]
+    name = "Writings"
+    url = "/writings/"
+    weight = 25
   [[menu.main]]
     name = "Now"
     url = "/now/"
