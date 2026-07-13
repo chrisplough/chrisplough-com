@@ -10,7 +10,9 @@ showPagination: false
 
 **The Intersection:**
 
-I've spent 20 years building technology (including founding and selling an 8-figure global company), 15 years exploring consciousness and healing, and 15 years in storytelling.
+I've spent 20 years building technology, 15 years exploring consciousness and healing, and 15 years in storytelling.
+
+The resume version: I architected what became Oracle Transportation Management - most of the Fortune 500 runs its logistics on software I built or designed. I co-founded MavenWire in 2006, grew it into a global eight-figure company, and sold it in 2016. Today a quarter-million dollars of sovereign AI infrastructure (Node0) runs in my basement, and I've spent the past months in 80+ working sessions with founders figuring out what this era actually asks of them.
 
 After selling my company in 2016, I stepped away from tech to explore what it means to be human and how we evolve. I worked with combat veterans healing from PTSD, led transformational adventures in remote places, and spent years in deep consciousness development.
 
