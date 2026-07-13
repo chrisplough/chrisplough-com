@@ -15,7 +15,7 @@ copyright = "© 1977–2026 Christoph Plough · [RSS](/index.xml)"
       [languages.en.params.author]
         name = "Christoph Plough"
         headline = "Human-AI Interdependence"
-        bio = "I tell founders what to rent, what to own, and what to ignore in this era of AI. Underneath it, the longer work: helping humanity become worth choosing. And other adventures..."
+        bio = "I tell founders what to rent, what to own, and what to ignore in this era of AI. Underneath it, the longer work: why would we choose each other? And other adventures..."
         image = "images/headshot-circle.png"
         links = [
           { twitter = "https://twitter.com/chrisplough" },
@@ -31,7 +31,7 @@ copyright = "© 1977–2026 Christoph Plough · [RSS](/index.xml)"
   defaultThemeColor = "#2E2E36"
   enableSearch = false
   enableCodeCopy = true
-  description = "I tell founders what to rent, what to own, and what to ignore in this era of AI. Underneath it, the longer work: helping humanity become worth choosing. And other adventures..."
+  description = "I tell founders what to rent, what to own, and what to ignore in this era of AI. Underneath it, the longer work: why would we choose each other? And other adventures..."
   keywords = ["Christoph Plough", "Chris Plough", "Digital Intelligence", "fifth story", "human-AI interdependence", "worth choosing", "oznog", "adventurex", "littleplow", "AI collaboration", "standpoint labs"]
 
   [params.defaultImage]
@@ -79,6 +79,10 @@ copyright = "© 1977–2026 Christoph Plough · [RSS](/index.xml)"
     name = "Work with me"
     url = "/ai/"
     weight = 5
+  [[menu.main]]
+    name = "Advisory"
+    url = "/advisory/"
+    weight = 6
   [[menu.main]]
     name = "About"
     url = "/about/"

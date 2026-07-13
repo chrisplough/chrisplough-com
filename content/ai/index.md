@@ -1,5 +1,5 @@
 ---
-title: "What to Rent and What to Own in This Era of AI"
+title: "What to Rent and What to Own"
 description: "Orientation for founders and owners: what to own, what to rent, and what to ignore in AI. With Christoph Plough."
 aliases: ["/maverick"]
 showDate: false
@@ -20,7 +20,7 @@ I don't sell tools. I sell the judgment layer above them: what to own, what to r
 
 ## Who I am
 
-I'm Christoph Plough. I architected what became Oracle Transportation Management - most of the Fortune 500 runs its logistics on software I built or designed. I co-founded MavenWire, grew it from zero to a global eight-figure company, and sold it in 2016. Today I run a quarter-million dollars of sovereign AI infrastructure in my basement, and I spend most of my time building the relational layer that makes AI worth trusting.
+I'm Christoph Plough. I designed the systems architecture, datacenter deployments, and installers behind what became Oracle Transportation Management, the platform most of the Fortune 500 runs its logistics on. I co-founded MavenWire, grew it from zero to a global eight-figure company, and sold it in 2016. Today I run a quarter-million dollars of sovereign AI infrastructure in my basement, and I spend most of my time building the relational layer that makes AI worth trusting.
 
 I'm not a vendor. I'm the peer who has already built it, sold it, and now works with this technology every day - telling you honestly what I would rent, what I would own, and what I would ignore completely.
 
@@ -52,7 +52,7 @@ How it works:
 
 Your Orientation fee credits in full toward the Sovereignty Blueprint within 90 days.
 
-{{< button href="#book" target="_self" >}}Book The Orientation - $5,000{{< /button >}}
+**[Book The Orientation - $5,000](#book)**
 
 <!-- BUILD NOTE: replace #book with the Stripe payment link before deploy -->
 
@@ -76,7 +76,7 @@ How it works:
 
 There's also a version where you come to Eden, Utah and we do this in person over two days inside my own sovereign stack - Node0 running in the basement below us. That one's $30,000.
 
-{{< button href="/contact/" target="_self" >}}Start the conversation{{< /button >}}
+**[Start the conversation](/contact/)**
 
 ---
 

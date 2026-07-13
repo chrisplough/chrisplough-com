@@ -30,9 +30,9 @@ Conversations are confidential. That's foundational.
 
 ## How this works
 
-Engagements are shaped to what you're facing: ongoing advisory, framework development for your organization, or confidential thinking partnership on the questions you can't discuss with your board. Reach out and say what you're facing. I'll point you to the right door, even if the right door is elsewhere. No pitch. Just exploration.
+Engagements are shaped to what you're facing: ongoing advisory, framework development for your organization, or confidential thinking partnership on the questions you can't discuss with your board. No pitch. Just exploration.
 
-{{< button href="/contact/" target="_self" >}}Reach Out{{< /button >}}
+If this resonates, [reach out and say what you're facing](/contact/). I'll point you to the right door, even if the right door is elsewhere.
 
 ---
 
