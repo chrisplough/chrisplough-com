@@ -20,7 +20,7 @@ I don't sell tools. I sell the judgment layer above them: what to own, what to r
 
 ## Who I am
 
-I'm Christoph Plough. I designed the systems architecture, datacenter deployments, and installers behind what became Oracle Transportation Management, the platform most of the Fortune 500 runs its logistics on. I co-founded MavenWire, grew it from zero to a global eight-figure company, and sold it in 2016. Today I run a quarter-million dollars of sovereign AI infrastructure in my basement, and I spend most of my time building the relational layer that makes AI worth trusting.
+I'm Christoph Plough. I designed the technical and systems architecture behind what became Oracle Transportation Management and led its datacenter deployments. Most of the Fortune 500 runs its logistics on that platform. I co-founded MavenWire, grew it from zero to a global eight-figure company, and sold it in 2016. Today I run a quarter-million dollars of sovereign AI infrastructure in my basement, and I spend most of my time building the relational layer that makes AI worth trusting.
 
 I'm not a vendor. I'm the peer who has already built it, sold it, and now works with this technology every day - telling you honestly what I would rent, what I would own, and what I would ignore completely.
 
