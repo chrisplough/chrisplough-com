@@ -32,7 +32,8 @@ I had everything - seven-figure business, the house, the cars - and I was empty.
 
 What I can be booked to speak on:
 
-- **Human-AI interdependence** - What makes humanity worth choosing, and how we navigate relationship with AI that's becoming more capable.
+- **What to Rent and What to Own in This Era of AI** - For rooms of founders and owners: a framework for locating yourself, deciding what to own (your data, your context, your voice, your judgment), what to rent (the frontier), and what to ignore - plus two things to do in the next two weeks. 57 minutes, built for a 60-minute slot. Also available as a workshop.
+- **Human-AI interdependence** - Why would we choose each other, and how we navigate relationship with intelligence that's becoming more capable.
 - **From empty to full-filled** - Success without fulfillment, and the shift from ambition to meaning.
 - **Transformation through challenge** - What extreme experiences teach us about who we really are.
 - **The list that saved my life** - Practical tools for the darkest moments, and breaking cycles of depression and suicidal ideation.
