@@ -28,7 +28,7 @@ I'm not a vendor. I'm the peer who has already built it, sold it, and now works 
 
 Responsible use of AI is not a cost-savings measure. It's a force multiplier: the goal is not a smaller team, it's your team of five operating like a team of fifty.
 
-The models are rentable. The frontier will keep moving whether you chase it or not - and mostly you shouldn't. What you must own is smaller and more valuable: your data, your context, your voice, and the judgment about where AI touches your business. If your access to your data can be turned off for you without your consent, it's not yours. Sovereignty doesn't mean isolation. Sovereignty means choice.
+The models are rentable. The frontier will keep moving whether you chase it or not - and mostly you shouldn't. What you must own is smaller and more valuable: your data, your context, your voice, and the judgment about where AI touches your business. If your access to your data can be turned off for you without your consent, it's not yours. I call this **connected sovereignty**: not isolation, choice. Still connected to the frontier - never captive to it.
 
 And underneath the tactics there's a relationship question - how you work with this new intelligence, not just what you extract from it. That's the layer I've been building in for years. It's also why my recommendations don't expire with next month's model release.
 
@@ -74,7 +74,7 @@ How it works:
 
 **$18,000 fixed. Two to three weeks. It ends.** No tail, no creeping retainer.
 
-There's also a version where you come to Eden, Utah and we do this in person over two days inside my own sovereign stack - Node0 running in the basement below us. That one's $30,000.
+There's also a version where you come to Eden, Utah and we do this in person over two days inside my own sovereign stack - Node0 running in the basement below us - followed by three monthly calls while the blueprint meets reality. I host; travel's on you. That one's $36,000.
 
 **[Start the conversation](/contact/)**
 
