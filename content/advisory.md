@@ -32,7 +32,7 @@ Conversations are confidential. That's foundational.
 
 Engagements are shaped to what you're facing: ongoing advisory, framework development for your organization, or confidential thinking partnership on the questions you can't discuss with your board. No pitch. Just exploration.
 
-If this resonates, [reach out and say what you're facing](/contact/). I'll point you to the right door, even if the right door is elsewhere.
+If this resonates, [reach out and say what you're facing](https://calendly.com/chrisplough/start-the-conversation). I'll point you to the right door, even if the right door is elsewhere.
 
 ---
 

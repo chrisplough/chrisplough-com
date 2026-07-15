@@ -52,9 +52,7 @@ How it works:
 
 Your Orientation fee credits in full toward the Sovereignty Blueprint within 90 days.
 
-**[Book The Orientation - $5,000](#book)**
-
-<!-- BUILD NOTE: replace #book with the Stripe payment link before deploy -->
+**[Book The Orientation - $5,000](https://buy.stripe.com/cNi8wR5Io48S0DF21G9oc00)**
 
 ---
 
@@ -76,7 +74,7 @@ How it works:
 
 There's also a version where you come to Eden, Utah and we do this in person over two days inside my own sovereign stack - Node0 running in the basement below us - followed by three monthly calls while the blueprint meets reality. I host; travel's on you. That one's $36,000.
 
-**[Start the conversation](/contact/)**
+**[Start the conversation](https://calendly.com/chrisplough/start-the-conversation)**
 
 ---
 
