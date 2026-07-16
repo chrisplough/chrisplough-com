@@ -88,7 +88,7 @@ For each system, two questions: *Can my access be turned off without my consent?
 
 - **Three NOs:** rare. You already think like an owner. Your question is leverage, not sovereignty.
 - **Mixed:** normal. Pick the single most catastrophic YES and give it an exit: an export schedule, a backup that runs without you remembering, a copy that lives somewhere with your name on the account.
-- **Three YESes:** you are in the majority, and now you know. Do not panic and self-host everything. The odds of losing access are low. But low odds times catastrophic outcome is worth a hundred dollars a month of backup. That is the whole move at your belt.
+- **Three YESes:** you are in the majority, and now you know. Do not panic and self-host everything. The odds of losing access are low. But low odds times catastrophic outcome is worth a hundred dollars a month of backup - and in practice it usually costs a small fraction of that. That is the whole move at your belt.
 
 **What this is NOT:** a reason to go off-grid. Sovereignty doesn't mean isolation. Sovereignty means choice. I call it connected sovereignty: still connected to the frontier, never captive to it.
 
