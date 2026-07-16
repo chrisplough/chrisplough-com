@@ -104,6 +104,8 @@ Put your business context in documents YOU own, and point every DI at them. A si
 
 Nothing is wasted on this path. Documents promote cleanly: folder, vault, system. Start the habit; ignore the platforms until your documents demand one.
 
+(Format, if you are the kind who asks: plain documents in folders are genuinely enough. Mine live in Google's Open Knowledge Format, an open standard, so nothing is captive even to my own tooling. Portability is the point, not the format.)
+
 **And the second thing to do in the next two weeks** (you heard this in the room): take the process you drew your line on and have DI do ONE real piece of it, end to end. Not a demo. Something actually off your plate. If you get stuck, that is normal. It is a rep, not a failure. Neither of these needs an IT department: if you can run email and a spreadsheet, you can do both this week.
 
 ---
