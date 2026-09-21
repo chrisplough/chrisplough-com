@@ -28,6 +28,10 @@ AI company founders and CTOs encountering emergence. VCs evaluating what they're
 
 Conversations are confidential. That's foundational.
 
+## How it works
+
+Advisory begins at $5,000 a month, three months at a time. Our first conversation is my gift: say what you're facing, and we'll both know by the end of it whether this is the right room.
+
 ## How this works
 
 Engagements are shaped to what you're facing: ongoing advisory, framework development for your organization, or confidential thinking partnership on the questions you can't discuss with your board. No pitch. Just exploration.
