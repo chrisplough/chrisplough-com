@@ -25,6 +25,7 @@ copyright = "© 1977–2026 Christoph Plough · [RSS](/index.xml)"
         ]
 
 [params]
+  # advisoryAnchor = "Advisory begins at $5,000 a month, three months at a time. Our first conversation is my gift."  # set once ruled (20260921 recommendation)
   colorScheme = "chrisplough"
   defaultAppearance = "dark"
   autoSwitchAppearance = false

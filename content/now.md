@@ -4,11 +4,17 @@ description: "What I'm focused on right now."
 showDate: false
 showReadingTime: false
 showPagination: false
+updated: "September 2026"
+now_summary: "Node0 has been online since June and production-ready since September; on 20 September we captured it, wrote the starter version, and pulled 117 lessons together, and the public pages are going up now. Standpoint Labs' site was rebuilt to explain Relational Core in three moves. The first design partners are in conversation."
 ---
 
 ![Now](/images/now-photo.jpg)
 
-<p class="now-updated">Last updated: June 12, 2026</p>
+<p class="now-updated">Last updated: September 21, 2026</p>
+
+**September 2026.** Node0 has been online since June and production-ready since September 13; on September 20 we captured it as it stands, wrote the starter version anyone can build from, and pulled 117 lessons together. The public pages are going up now at [oznog.com/node0](https://oznog.com/node0). Standpoint Labs' site was rebuilt around the crystal I hold up when I explain Relational Core. The first design partners are in conversation. The June entry below stays as it was written.
+
+---
 
 This is a [now page](https://nownownow.com/about). It's a snapshot of what I'm focused on at this point in my life.
 

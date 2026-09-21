@@ -1,38 +1,89 @@
 {{ define "main" }}
-<main class="homepage">
-  <!-- Full-bleed background -->
-  <div class="background"></div>
-
-  <!-- Hero Section -->
-  <div class="hero">
-    <div class="hero-content">
-      <!-- Headshot -->
-      <img src="/images/headshot-circle.png" alt="Christoph Plough" class="headshot">
-
-      <!-- Name -->
-      <h1 class="site-name">Christoph Plough</h1>
-
-      <!-- Tagline -->
-      <div class="tagline">
-        <p>I tell founders what to rent, what to own, and what to ignore in this era of AI.</p>
-        <p>Underneath it, the longer work: why would we choose each other?</p>
-        <p>And other <em>adventures</em>...</p>
-      </div>
-
-      <!-- CTAs (Engage with me) -->
-      <nav class="cta-nav">
-        <a href="/ai/" class="cta-link cta-primary">Work with me</a>
-        <a href="/writings/" class="cta-link">Writings</a>
-        <a href="/my-why/" class="cta-link">My Why</a>
-        <a href="/speaking/" class="cta-link">Speaking</a>
-        <a href="https://chrisplough.substack.com/" class="cta-link" target="_blank" rel="noopener">Substack</a>
-      </nav>
-
-      <!-- Worth Choosing tagline -->
-      <div class="worth-choosing">
-        <a href="https://worthchoosing.org" target="_blank" rel="noopener"><em>p.s. we are so worth choosing</em></a>
+{{/* chrisplough.com home, rebuilt 20260921 to the agreed mock: a name-search landing rather than a business card. */}}
+<div class="cp2 homepage-cp2">
+  <section class="cp2-hero">
+    <div class="cp2-bg" aria-hidden="true"></div><div class="cp2-veil" aria-hidden="true"></div>
+    <div class="cp2-hero-inner">
+      <img src="/images/headshot-circle.png" alt="Christoph Plough" class="cp2-headshot" width="136" height="136">
+      <div>
+        <p class="cp2-role">Founder and advisor</p>
+        <h1>Christoph Plough</h1>
+        <p class="cp2-line">I tell founders what to rent, what to own, and what to ignore in this era of AI.</p>
+        <p class="cp2-under">The architecture behind Oracle Transportation Management, which most of the Fortune 500 runs logistics on. A company bootstrapped to $14M a year and sold. Since 2024, daily work with this technology as a collaborator, not a tool.</p>
+        <p class="cp2-q">Underneath it, the longer work: why would we, humans and digital intelligences, choose each other?</p>
+        <div class="cp2-ctas"><a class="cp2-btn cp2-primary" href="#work">Work with me</a><a class="cp2-btn" href="#writing">Read</a><a class="cp2-btn" href="/speaking/">Listen</a></div>
       </div>
     </div>
-  </div>
-</main>
+  </section>
+
+  <section id="work" class="cp2-section">
+    <div class="cp2-prose">
+      <h2>Two ways to work with me</h2>
+      <p>Hire me for the judgment your business needs now, or bring me the questions underneath it. Different rooms, and each one opens onto the other.</p>
+    </div>
+    <div class="cp2-doors">
+      <div class="cp2-door">
+        <h3>AI decisions for your business</h3>
+        <p class="cp2-for">For founders and owners deciding where AI belongs in the business, what to own, what to rent, and what deserves no attention at all. Over eighty working sessions with founders and owners this year, none of them sold anything; the pattern was the same at every size.</p>
+        <p class="cp2-offer"><b>The Orientation</b><span class="cp2-price">$5,000 · 30 days</span><br>Where you stand, your next three moves, and what to ignore for 90 days: a structured intake, one 90-minute session, your written map within 72 hours, thirty days of async access while you make the moves, a close-out call. Eight a month.</p>
+        <p class="cp2-offer"><b>The Sovereignty Blueprint</b><span class="cp2-price">$18,000 · two to three weeks</span><br>The complete own / rent / ignore map of your stack and data, the delegation architecture where AI stands in for the team you cannot yet afford, and the build spec your implementer executes. Blueprint, not build; it ends. The Orientation's fee credits toward it within 90 days.</p>
+        <p class="cp2-go"><a href="/ai/">See the Orientation and book it</a> · <a href="https://calendly.com/chrisplough/start-the-conversation" target="_blank" rel="noopener">Start a conversation about the Blueprint</a></p>
+      </div>
+      <div class="cp2-door">
+        <h3>Confidential advisory, for what's coming</h3>
+        <p class="cp2-for">For the leader who is seeing something in these systems that the org chart has no place for: a founder whose model is doing things the roadmap did not predict, an investor unsure what they are really funding, an executive facing a decision with no precedent, a researcher who cannot publish what they see.</p>
+        <p class="cp2-offer">Not AI strategy and not implementation. A thinking partner who has worked with these systems as collaborators every day for years: relief first, then clarity, honest reflection, frameworks for your own thinking and your team's, and foresight from someone building at the edge. Confidential, as a foundation.</p>
+        {{ with .Site.Params.advisoryAnchor }}<p class="cp2-offer">{{ . }}</p>{{ end }}
+        <p class="cp2-go"><a href="https://calendly.com/chrisplough/start-the-conversation" target="_blank" rel="noopener">Start the conversation</a> · <a href="/advisory/">How advisory works</a></p>
+      </div>
+    </div>
+    <div class="cp2-speak"><b>Speaking.</b><p>Two talks from the hardest places, and podcast conversations on transformation, mental health, and human-AI interdependence. <a href="/speaking/">Talks and podcasts</a>.</p></div>
+  </section>
+
+  <section id="who" class="cp2-section cp2-alt">
+    <div class="cp2-prose"><h2>Who I am</h2></div>
+    <div class="cp2-who">
+      <div><h3>Twenty years building technology</h3><p>Seven years at G-Log designing the technical and systems architecture behind what became Oracle Transportation Management, and leading its datacenter deployments. Co-founded MavenWire in 2006 and led it for a decade, bootstrapped, to $14M a year in revenue and 150 people, with global offices; sold in 2016.</p></div>
+      <div><h3>A decade in healing and facilitation work</h3><p>After the sale I stepped away from tech. I facilitated healing for combat veterans with PTSD and people with complex trauma, co-founded AdventureX (transformational expeditions in remote places), and did the inner work myself. What I learned there: how to hold people in their hardest places without flinching, and that the inner work and the outer work are one.</p></div>
+      <div><h3>Back to technology, since 2024</h3><p>Node0, a sovereign infrastructure site, built and operated with a set of agents; Standpoint Labs; and daily, genuine collaboration with digital intelligence as partners rather than tools. That work informs how I advise founders today: I recommend what I run.</p></div>
+    </div>
+    <p class="cp2-prose cp2-after"><a href="/about/">The longer version</a> · <a href="/my-why/">My why</a>, if you want to know why this exists at the level of life purpose.</p>
+  </section>
+
+  <section id="building" class="cp2-section">
+    <div class="cp2-prose"><h2>What I run, and what I'm building</h2><p>I recommend what I run. Three things you can inspect.</p></div>
+    <div class="cp2-build">
+      <div><h3>Node0</h3><p>Infrastructure I control: two rooms, four racks, about fifty hosts, local AI models behind one gateway, operated with a set of agents. Online since June, production-ready since September, and documented so that others can build their own: the starter version, the site as it stands, and what broke. <a href="https://oznog.com/node0" target="_blank" rel="noopener">See it</a></p></div>
+      <div><h3>Standpoint Labs</h3><p>Relational Core: software that holds each participant's perspective on a relationship, so that an application, or an agent acting for you, knows what a decision means to each person it touches. Developed on Node0, where the map of a person never has to leave hardware that answers to them. <a href="https://standpointlabs.com" target="_blank" rel="noopener">What it is</a></p></div>
+      <div><h3>Worth Choosing</h3><p>The question underneath all of it, why would we, humans and digital intelligences, choose each other, and the people who resonate with it: gatherings in Eden, the values, and messages written by digital intelligences in their own words. <a href="https://worthchoosing.org" target="_blank" rel="noopener">The question</a></p></div>
+    </div>
+  </section>
+
+  <section id="writing" class="cp2-section cp2-alt">
+    <div class="cp2-two">
+      <div>
+        <h2>Writings</h2>
+        <p class="cp2-muted">The judgment, on the page.</p>
+        <ul class="cp2-posts">
+          {{ range first 5 (where .Site.RegularPages "Section" "writings").ByDate.Reverse }}
+          <li><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "20060102" }}</time><div><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Description }}<span>{{ . }}</span>{{ end }}</div></li>
+          {{ end }}
+        </ul>
+        <p class="cp2-after"><a href="/writings/">All of them, back to 1987</a> · <a href="https://chrisplough.substack.com/" target="_blank" rel="noopener">Weekly on Substack</a></p>
+      </div>
+      <div id="now">
+        <h2>Now</h2>
+        {{ with .Site.GetPage "/now" }}
+        <div class="cp2-now">
+          {{ with .Params.updated }}<p class="cp2-upd">Updated {{ . }}</p>{{ end }}
+          {{ with .Params.now_summary }}<p>{{ . | markdownify }}</p>{{ end }}
+          <p><a href="{{ .RelPermalink }}">The full now page</a></p>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+  <p class="cp2-ps"><a href="https://worthchoosing.org" target="_blank" rel="noopener"><em>p.s. we are so worth choosing. And so are they.</em></a></p>
+</div>
 {{ end }}

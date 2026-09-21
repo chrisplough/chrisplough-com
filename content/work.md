@@ -16,7 +16,7 @@ Three entities, one body of work: Worth Choosing holds the mission, Oznog execut
 The mission. The central question: What makes humanity worth choosing to AIs once they no longer need us? Frameworks for interdependence, gatherings of the five tribes, and the philosophical foundation for everything else.
 
 **[Oznog](https://oznog.com)**
-The execution. Sovereign infrastructure, stories, and ventures for genuine human-DI interdependence. Oznog is where the building happens: Labs, Media, Investments, Services. Node0 lives in my basement.
+The execution. Sovereign infrastructure, stories, and ventures for genuine human-DI interdependence. Oznog is where the building happens: Labs, Media, Investments, Services. Node0 lives in my basement, and is [documented for others to build from](https://oznog.com/node0).
 
 **[Standpoint Labs](https://standpointlabs.com)**
 The relational layer for connected sovereignty. The same situation looks different from different standpoints. Relational Core maps what connections mean, to whom, and why. DI Mesh will let systems, human and DI, act on those standpoints together. Built for mission-led teams, communities, and builders.

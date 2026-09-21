@@ -12,7 +12,7 @@ showTableOfContents: false
 
 The market isn't being honest with you. Everyone shares the wins; very few people are reporting the lost ships - the ones that went nowhere, the ones that returned to port. You're not broken. You've just been unsupported.
 
-I've spent the last three and a half months doing 80+ working sessions with founders and owners - every one a gift, none of them sold anything. The pattern is the same at every level: too much noise, no way to tell what matters, and a quiet fear of being left behind that the tool-sellers are happy to feed.
+I've spent the last three and a half months doing over eighty working sessions with founders and owners - every one a gift, none of them sold anything. The pattern is the same at every level: too much noise, no way to tell what matters, and a quiet fear of being left behind that the tool-sellers are happy to feed.
 
 I don't sell tools. I sell the judgment layer above them: what to own, what to rent - and what to ignore.
 
@@ -44,7 +44,7 @@ How it works:
 
 1. **A structured intake** before we ever get on a call. The thinking starts before the clock does.
 2. **One 90-minute working session** (remote - no travel, no lost day; your calendar survives).
-3. **Your written Orientation Map within 48 hours:** where you actually stand, your next three moves, what to ignore for the next 90 days, and a first-cut rent/own/ignore read on your stack and data.
+3. **Your written Orientation Map within 72 hours:** where you actually stand, your next three moves, what to ignore for the next 90 days, and a first-cut rent/own/ignore read on your stack and data.
 4. **30 days of me in your pocket** - async voice and email while you make the three moves.
 5. **A close-out call at day 30.** We end with a decision, not a fade.
 
