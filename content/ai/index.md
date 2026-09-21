@@ -70,7 +70,7 @@ How it works:
 4. **The build spec** your implementer executes. Blueprint, not build.
 5. **A warm handoff to the right implementer** - included as a feature. I architect it. I don't move in.
 
-**$18,000 fixed. Two to three weeks. It ends.** No tail, no creeping retainer.
+**$18,000 fixed. Three weeks. It ends.** No tail, no creeping retainer.
 
 There's also a version where you come to Eden, Utah and we do this in person over two days inside my own sovereign stack - Node0 running in the basement below us - followed by three monthly calls while the blueprint meets reality. I host; travel's on you. That one's $36,000.
 
