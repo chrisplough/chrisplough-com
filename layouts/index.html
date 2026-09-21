@@ -64,7 +64,7 @@
     <div class="cp2-two">
       <div>
         <h2>Writings</h2>
-        <p class="cp2-muted">The judgment, on the page.</p>
+        <p class="cp2-muted">The thinking behind the advice.</p>
         <ul class="cp2-posts">
           {{ range first 5 (where .Site.RegularPages "Section" "writings").ByDate.Reverse }}
           <li><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "20060102" }}</time><div><a href="{{ .RelPermalink }}">{{ .Title }}</a>{{ with .Description }}<span>{{ . }}</span>{{ end }}</div></li>
