@@ -1211,3 +1211,18 @@ main ul.flex.flex-row li:not(:has(a)):not(:has(span[aria-current])) {
 @media (max-width: 640px) {
   header nav .cp-menu { gap: .35rem 1rem; }
 }
+
+/* the writings list (20260921): description and reading time beside each date, grouped by year */
+.cp2-year { font-family: 'Space Grotesk', sans-serif; font-size: 1.1rem; color: var(--cp-text-muted); margin: 2.2rem 0 0; padding-top: .6rem; border-top: 1px solid var(--cp2-line, rgba(255,255,255,.14)); }
+.cp2-writings { list-style: none; padding: 0; margin: .6rem 0 0; }
+.cp2-writings li { display: grid; grid-template-columns: 6.5rem minmax(0, 1fr); gap: 1rem; padding: .9rem 0; border-top: 1px solid rgba(255,255,255,.08); }
+.cp2-writings li::before, .cp2-writings li::marker { content: none !important; display: none; }
+.cp2-writings time { font-family: 'Space Grotesk', sans-serif; font-size: .85rem; color: var(--cp-text-muted); padding-top: .2rem; }
+.cp2-writings a { font-weight: 600; color: #fff; text-decoration: none; font-size: 1.1rem; }
+.cp2-writings a:hover { color: #E0D2C4; text-decoration: underline; text-underline-offset: .2em; }
+.cp2-writings a[href^="http"]::after { content: none !important; }
+.cp2-writings p { margin: .3rem 0 0; color: var(--cp-text-secondary); font-size: 1rem; }
+.cp2-writings .cp2-rt { display: block; margin-top: .3rem; font-size: .82rem; color: var(--cp-text-muted); }
+@media (max-width: 640px) { .cp2-writings li { grid-template-columns: 1fr; gap: .2rem; } }
+/* local test builds use a 127.0.0.1 base URL; internal links must not get the outbound arrow there */
+.prose a[href*="127.0.0.1"]::after, article a[href*="127.0.0.1"]::after, main a[href*="127.0.0.1"]::after { content: none !important; }

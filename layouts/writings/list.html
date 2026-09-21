@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{/* the writings list, restyled 20260921: every piece with its date, its description and its reading time; grouped by year */}}
+<article class="max-w-full">
+  <header class="max-w-prose">
+    <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">{{ .Title }}</h1>
+  </header>
+  <section class="prose max-w-prose cp2-writings-intro">{{ .Content }}</section>
+  {{ $pages := .Pages.ByDate.Reverse }}
+  {{ range $pages.GroupByDate "2006" }}
+  <h2 class="cp2-year">{{ .Key }}</h2>
+  <ul class="cp2-writings">
+    {{ range .Pages }}
+    <li>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "20060102" }}</time>
+      <div>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        {{ with .Description }}<p>{{ . }}</p>{{ end }}
+        <span class="cp2-rt">{{ .ReadingTime }} min</span>
+      </div>
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</article>
+{{ end }}
