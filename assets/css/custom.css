@@ -1233,3 +1233,6 @@ body:has(.cp2) header { position: relative; z-index: 2; }
 /* the theme's scroll-to-top rail sits at end-0 of the body column; on small screens it pokes past the viewport edge */
 #to-top { right: 0; inset-inline-end: 0; max-width: 100%; }
 @media (max-width: 767px) { #to-top { display: none; } }
+
+/* header menu (20260921): a step smaller, whole items wrap */
+header nav .cp-menu a { font-size: .92rem; }

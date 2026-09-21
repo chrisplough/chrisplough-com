@@ -89,10 +89,6 @@ copyright = "© 1977–2026 Christoph Plough · [RSS](/index.xml)"
     url = "/about/"
     weight = 10
   [[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 20
-  [[menu.main]]
     name = "Writings"
     url = "/writings/"
     weight = 25
