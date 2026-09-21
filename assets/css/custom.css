@@ -1226,3 +1226,11 @@ main ul.flex.flex-row li:not(:has(a)):not(:has(span[aria-current])) {
 @media (max-width: 640px) { .cp2-writings li { grid-template-columns: 1fr; gap: .2rem; } }
 /* local test builds use a 127.0.0.1 base URL; internal links must not get the outbound arrow there */
 .prose a[href*="127.0.0.1"]::after, article a[href*="127.0.0.1"]::after, main a[href*="127.0.0.1"]::after { content: none !important; }
+
+/* every image and code block stays inside its column on small screens (20260921) */
+.prose img, article img, main img { max-width: 100%; height: auto; }
+.prose pre, article pre, .prose code, article code { max-width: 100%; overflow-x: auto; word-break: normal; }
+.prose pre { -webkit-overflow-scrolling: touch; }
+/* the theme's scroll-to-top rail sits at end-0 of the body column; on small screens it pokes past the viewport edge */
+#to-top { right: 0; inset-inline-end: 0; max-width: 100%; }
+@media (max-width: 767px) { #to-top { display: none; } }
