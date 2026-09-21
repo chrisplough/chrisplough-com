@@ -1151,7 +1151,7 @@ main ul.flex.flex-row li:not(:has(a)):not(:has(span[aria-current])) {
 .cp2-alt { background: var(--cp2-g1); }
 .cp2-prose { max-width: var(--cp2-measure); }
 .cp2 .cp2-prose p { margin-top: 1rem !important; }
-.cp2-after { margin-top: 1.8rem; }
+.cp2 .cp2-after { margin-top: 2.4rem !important; }
 .cp2-muted { color: var(--cp-text-muted); margin-top: .6rem; }
 .cp2-go { margin-top: .9rem; }
 .cp2-btn { display: inline-block; padding: .7rem 1.15rem; border: 1.5px solid var(--cp2-tan); color: #fff; text-decoration: none; font-weight: 600; font-family: 'Space Grotesk', sans-serif; font-size: .95rem; border-radius: 3px; transition: background .18s, color .18s; }
@@ -1164,11 +1164,11 @@ main ul.flex.flex-row li:not(:has(a)):not(:has(span[aria-current])) {
 .cp2-veil { position: absolute; inset: 0; background: linear-gradient(to right, rgba(46,46,54,.94) 0%, rgba(46,46,54,.86) 45%, rgba(46,46,54,.35) 100%); }
 .cp2-hero-inner { position: relative; max-width: 1080px; margin: 0 auto; padding: 0 clamp(1rem, 4vw, 2.5rem); display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 2.2rem; align-items: center; box-sizing: border-box; }
 .cp2-headshot { width: 136px; height: 136px; border-radius: 50%; border: 2px solid var(--cp2-tan); display: block; }
-.cp2-role { font-family: 'Space Grotesk', sans-serif; font-size: .9rem; color: var(--cp2-tan-2); letter-spacing: .02em; margin-bottom: .4rem; }
-.cp2-line { font-size: clamp(1.3rem, 2.4vw, 1.7rem); color: #fff; margin-top: 1rem; max-width: 34ch; line-height: 1.35; }
-.cp2-under { margin-top: 1rem; color: var(--cp-text-secondary); font-size: 1.05rem; max-width: 44ch; }
-.cp2-q { margin-top: 1rem; color: var(--cp2-tan-2); font-size: 1.05rem; max-width: 44ch; }
-.cp2-ctas { margin-top: 1.8rem; display: flex; gap: .7rem; flex-wrap: wrap; }
+.cp2 .cp2-role { font-family: 'Space Grotesk', sans-serif; font-size: .9rem; color: var(--cp2-tan-2); letter-spacing: .02em; margin-bottom: .6rem !important; }
+.cp2 .cp2-line { font-size: clamp(1.3rem, 2.4vw, 1.7rem); color: #fff; margin-top: 1.1rem !important; max-width: 34ch; line-height: 1.35; }
+.cp2 .cp2-under { margin-top: 1.4rem !important; color: var(--cp-text-secondary); font-size: 1.05rem; max-width: 44ch; line-height: 1.55; }
+.cp2 .cp2-q { margin-top: 1.2rem !important; color: var(--cp2-tan-2); font-size: 1.05rem; max-width: 44ch; line-height: 1.55; }
+.cp2 .cp2-ctas { margin-top: 2.2rem; display: flex; gap: .7rem; flex-wrap: wrap; }
 /* the two doors */
 .cp2-doors { margin-top: 2.2rem; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0 4rem; }
 .cp2-door { border-top: 1px solid var(--cp2-line); padding-top: 1.4rem; }
@@ -1182,7 +1182,7 @@ main ul.flex.flex-row li:not(:has(a)):not(:has(span[aria-current])) {
 .cp2-speak b { font-family: 'Space Grotesk', sans-serif; color: #fff; font-size: 1.1rem; }
 /* who + build */
 .cp2-who, .cp2-build { margin-top: 2.2rem; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 0 3rem; }
-.cp2-who > div, .cp2-build > div { border-top: 1px solid var(--cp2-line); padding-top: 1.3rem; font-size: 1.02rem; line-height: 1.6; }
+.cp2-who > div, .cp2-build > div { border-top: 1px solid var(--cp2-line); padding: 1.3rem 0 .6rem; font-size: 1.02rem; line-height: 1.6; }
 .cp2-who h3, .cp2-build h3 { font-size: 1.15rem; margin-bottom: .7rem; text-wrap: pretty; }
 /* writings + now */
 .cp2-two { display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); gap: 3.5rem; }
@@ -1196,8 +1196,8 @@ main ul.flex.flex-row li:not(:has(a)):not(:has(span[aria-current])) {
 .cp2-now { background: var(--cp2-g2); border: 1px solid var(--cp2-line); padding: 1.4rem 1.6rem; margin-top: 1.2rem; }
 .cp2-upd { font-family: 'Space Grotesk', sans-serif; font-size: .82rem; color: var(--cp-text-muted); margin-bottom: .6rem; }
 .cp2-now p + p { margin-top: .8rem; }
-.cp2-ps { margin: 0 calc(50% - 50vw); padding: 3rem 0 3.5rem; }
-.cp2-ps a { display: block; max-width: 1080px; margin: 0 auto; padding: 0 clamp(1rem, 4vw, 2.5rem); box-sizing: border-box; color: var(--cp2-tan-2); }
+.cp2-ps { margin: 0 calc(50% - 50vw); padding: 3rem 0 3.5rem; border-top: 1px solid var(--cp2-line); }
+.cp2-ps a { color: var(--cp2-tan-2); }
 body:has(.cp2) header { position: relative; z-index: 2; }
 @media (max-width: 860px) {
   .cp2 h1 { white-space: normal; }
