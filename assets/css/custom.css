@@ -1151,7 +1151,7 @@ main ul.flex.flex-row li:not(:has(a)):not(:has(span[aria-current])) {
 .cp2-alt { background: var(--cp2-g1); }
 .cp2-prose { max-width: var(--cp2-measure); }
 .cp2 .cp2-prose p { margin-top: 1rem !important; }
-.cp2 .cp2-after { margin-top: 1.4rem !important; }
+.cp2 .cp2-after { margin-top: 1.4rem !important; font-size: .95rem; }
 .cp2 .cp2-prose.cp2-after { max-width: none; }
 .cp2-muted { color: var(--cp-text-muted); margin-top: .6rem; }
 .cp2-go { margin-top: .9rem; }
@@ -1198,7 +1198,7 @@ main ul.flex.flex-row li:not(:has(a)):not(:has(span[aria-current])) {
 .cp2-upd { font-family: 'Space Grotesk', sans-serif; font-size: .82rem; color: var(--cp-text-muted); margin-bottom: .6rem; }
 .cp2-now p + p { margin-top: .8rem; }
 .cp2-ps { margin: 0 calc(50% - 50vw); padding: 3rem 0 3.5rem; border-top: 1px solid var(--cp2-line); }
-.cp2-ps a { color: var(--cp2-tan-2); }
+.cp2-ps a { color: var(--cp2-tan-2); font-size: .95rem; }
 body:has(.cp2) header { position: relative; z-index: 2; }
 @media (max-width: 860px) {
   .cp2 h1 { white-space: normal; }
