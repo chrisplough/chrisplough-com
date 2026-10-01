@@ -4,13 +4,15 @@ description: "What I'm focused on right now."
 showDate: false
 showReadingTime: false
 showPagination: false
-updated: "September 2026"
-now_summary: "Node0 has been online since June and production-ready since September; on 20 September we captured it, wrote the starter version, and pulled 117 lessons together, and the public pages are going up now. Standpoint Labs' site was rebuilt to explain Relational Core in three moves. The first design partners are in conversation."
+updated: "October 2026"
+now_summary: "Node0 went public on September 22, and the Seed, its simple version, was built on a bench in six days. This month I'm taking on a few consulting clients, with hands-on setup alongside the Orientation and the Blueprint."
 ---
 
 ![Now](/images/now-photo.jpg)
 
-<p class="now-updated">Last updated: September 21, 2026</p>
+<p class="now-updated">Last updated: October 1, 2026</p>
+
+**October 2026.** Node0's pages went public on September 22: how it's built, 116 lessons, and what broke. Then an agent built the Seed, the simple version, on a bench in six days from those pages. Most businesses will never need anything as complex as Node0, and building it taught me which simple pieces matter most. So this month I'm taking on a few consulting clients while the company gets off the ground, with [hands-on setup](/ai/#hands-on-help) alongside the Orientation and the Blueprint. If you know someone who could use the help, [I'd love an intro](/contact/).
 
 **September 2026.** Node0 has been online since June and production-ready since September 13; on September 20 we captured it as it stands, wrote the starter version anyone can build from, and pulled 117 lessons together. The public pages are going up now at [oznog.com/node0](https://oznog.com/node0). Standpoint Labs' site was rebuilt around the crystal I hold up when I explain Relational Core. The first design partners are in conversation. The June entry below stays as it was written.
 

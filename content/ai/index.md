@@ -67,8 +67,8 @@ How it works:
 1. **Deep-dive sessions** on your business model, stack, data, and team - including the work you wish a team could take off your plate.
 2. **The Sovereignty Map:** own / rent / ignore across your entire stack and data estate, with reasons.
 3. **Delegation architecture:** where AI stands in for the team you can't yet afford - designed around trust boundaries and gated access, not tool hype.
-4. **The build spec** your implementer executes. Blueprint, not build.
-5. **A warm handoff to the right implementer** - included as a feature. I architect it. I don't move in.
+4. **The build spec** your implementer executes, whether that's your team, a partner, or me on hours. The Blueprint itself is design, not build.
+5. **A warm handoff to the right implementer**, included. I architect it, and I only build if you ask.
 
 **$18,000 fixed. Three weeks. It ends.** No tail, no creeping retainer.
 
@@ -78,17 +78,35 @@ There's also a version where you come to Eden, Utah and we do this in person ove
 
 ---
 
+## Hands-on help
+
+Sometimes the map isn't the bottleneck. You know what you want, and you want it set up well by someone who builds this for himself. These are tightly scoped on purpose, so they're fixed-price. Anything larger runs on hours, so you pay for what it takes.
+
+**An AI that knows your work. $5,000.** Your email, documents and notes, up to three of your own sources, connected to the AI you already use, so it answers from your own work. We write twenty questions from your work together, and it has to answer them before we're done.
+
+**Recurring tasks off your plate. $5,000.** We start with one process: handed to AI on the platform you already pay for, with a human approval step before anything leaves the building, run on your own work, and handed to the person who owns it. Thirty days of support. Once it runs, the next one is easier.
+
+**A company brain. Starts with a $3,000 Discovery.** What your company knows, in one place your team can ask. Discovery maps where it lives, who can grant access, where it should run and which area goes first, and tests it on your own documents. You get a written estimate you own whether or not we build. The build runs on hours, typically $10,000 to $15,000 for the first area, and the Discovery fee credits toward it within 60 days.
+
+**Blocks of hours.** 3 hours for $3,000 · 10 hours for $7,500 · 25 hours for $15,000. For builds, consolidation, connections, or judgment on demand. Logged in 15-minute increments, email counts, good for 90 days.
+
+Your files stay in accounts you own, and nothing custom gets built when the tools you already pay for can do the job.
+
+**[Start the conversation](https://calendly.com/chrisplough/start-the-conversation)**
+
+---
+
 ## The quiet third path
 
-Some people keep me in their corner afterward. Ongoing judgment, biweekly, async between. There are three seats and they're usually taken. If that's you, we'll talk after your Orientation.
+Some people keep me in their corner afterward. Ongoing judgment, biweekly, async between. There are three seats. If that's you, we'll talk once we've worked together.
 
-*And for those who want this in a group: a six-week cohort is coming this fall - peers at your level, belt by belt. [Join the list](/contact/) - that's all I'll say about it.*
+*And if you'd rather do this in a group, with peers at your level: [tell me](/contact/). If enough people ask, I'll run one.*
 
 ---
 
 ## What I won't do
 
-- **I won't implement.** Builds are routed to implementers I trust, with your spec in hand.
+- **I won't build what you don't need.** The hands-on packages stay tightly scoped, larger builds run on hours, and nothing custom gets built when the tools you already pay for can do the job.
 - **I won't sell you the frontier.** Most of it you should ignore. There is no such thing as the wrong computer.
 - **I won't feed the fear.** The market is selling you urgency from a place of scarcity. Adoption works better from a place of possibility - and from someone who tells you what NOT to do.
 
@@ -100,7 +118,7 @@ Some people keep me in their corner afterward. Ongoing judgment, biweekly, async
 You can. Most people I talk to have been doing exactly that for a year. That's how they got here - seventeen tabs open and doing nothing, because nobody will tell them what to ignore.
 
 **Is this AI training?**
-No. Training teaches tools. This is orientation: where you stand, what to own, what to rent, what to ignore, in what order. If you need hands-on training afterward, I'll point you to the right people.
+No. Training teaches tools. This is orientation: where you stand, what to own, what to rent, what to ignore, in what order. If you want it set up afterward, that's the hands-on work above, and training your team is part of it.
 
 **What if I'm further along - already running agents?**
 Then you have a different version of the same problem: trust boundaries, gated access, and what your growing stack should look like when it answers to you. That's the Blueprint conversation.
