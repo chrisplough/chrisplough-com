@@ -34,7 +34,7 @@ And underneath the tactics there's a relationship question - how you work with t
 
 ---
 
-## The Orientation - $5,000
+## The Orientation - $5,000 {#orientation}
 
 **In 30 days you know exactly where you stand with AI, your next three moves, and what you can safely ignore.**
 
